@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 
@@ -65,11 +64,9 @@ const RecentEntries = () => {
               <p className="font-lora text-muted-foreground leading-relaxed mb-4">
                 {post.excerpt}
               </p>
-              <Link to={`/post/${post.id}`}>
-                <Button variant="journal" size="sm" className="w-full">
-                  Read More
-                </Button>
-              </Link>
+              <Button variant="journal" size="sm" className="w-full">
+                Read More
+              </Button>
             </CardContent>
           </Card>
         ))}
@@ -97,11 +94,9 @@ const RecentEntries = () => {
       </div>
 
       <div className="text-center mt-10">
-        <Link to="/all-entries">
-          <Button variant="purple" className="font-lora">
-            View All Entries
-          </Button>
-        </Link>
+        <Button variant="sanctuary" className="font-lora">
+          View All Entries
+        </Button>
       </div>
     </section>
   );
