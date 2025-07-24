@@ -15,22 +15,22 @@ const pictures = [
   {
     id: 2,
     src: picture2,
-    caption: "Peaceful workspace vibes",
+    caption: "Netflix & chill",
     date: "Yesterday",
-    reflection: "Where code meets prayer"
+    reflection: "Remebering to rest and recharge"
   },
   {
     id: 3,
     src: picture3,
     caption: "Evening devotions",
-    date: "November 14",
+    date: "July 22, 2025",
     reflection: "Finding peace in His word"
   }
 ];
 
 const currentSong = {
-  title: "Purify",
-  artist: "Elevation Worship",
+  title: "More Than Anything",
+  artist: "Sunday Service Choir",
   mood: "reflective"
 };
 
@@ -43,7 +43,7 @@ const PicturesSection = () => {
             Pictures of the Day
           </h2>
           <p className="font-lora text-muted-foreground">
-            Moments captured between keystrokes and prayers
+            Moments captured with my iPhone
           </p>
         </div>
 

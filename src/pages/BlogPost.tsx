@@ -6,72 +6,109 @@ const blogPosts = [
   {
     id: 1,
     title: "God in the 404s",
-    date: "November 15, 2024",
-    excerpt: "Sometimes the broken links lead to the most beautiful discoveries. When my deployment failed at 2 AM, I found myself praying in a way I haven't in months...",
-    content: `Sometimes the broken links lead to the most beautiful discoveries. When my deployment failed at 2 AM, I found myself praying in a way I haven't in months.
+    date: "July 20, 2025",
+    excerpt: "Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like...",
+    content: `Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like.
 
-There's something humbling about a 404 error. Your carefully crafted code, the hours of debugging, the late-night commits—all leading to a blank page that simply says "not found." But isn't that where grace meets us most often? In the spaces where our best efforts fall short?
+I opened my laptop like I was opening a confessional booth. Just me and my compiler and the God who somehow still shows up in my mess.
 
-Tonight, as I stared at the error logs, I remembered that God specializes in redeeming what's broken. The Israelites wandered for 40 years—talk about a 404 experience. But every wrong turn, every dead end, was part of a larger navigation system orchestrated by love.
+I was in the middle of testing a simple login flow—should’ve taken 15 minutes max. Instead, I got hit with a cascade of error messages: “Failed to fetch.” “Unauthorized.” “404 Not Found.” That last one got me. Not just because the route didn’t exist. But because it felt like my reality.
+It reminded me of how often I try to access parts of myself — or parts of others — and it’s like… nothing’s there. 
+Like trying to reach someone I love and getting an emotionally blue tick. Like praying for clarity and hearing silence. Like showing up for people who never come back into my life. 
+It’s insane how something as sterile and technical as a 404 can feel personal. I just sat there, hands off the keyboard, staring. I could feel the lump in my throat, 90% because of my frustration from my code, but the other 10% was from the ache. That old, familiar ache of disconnection, of isolation, of wondering if I’m ever going to get it right.
+The kind you can't fix with a patch update or a pull request. The kind that whispers and says: “Maybe you’re the one that’s not found.”
+But that’s when God came through in His classic, subtle way. Not loud. Not flashy. More like a steady, unassuming presence that sat down next to me in the dark. No judgment. No “you should’ve known better.” Just presence. Still. Soft. Steady.
 
-Maybe my deployment failure wasn't a mistake. Maybe it was an invitation to pause, to remember that my worth isn't measured in green checkmarks or successful builds. Maybe it was God's way of saying, "Come sit with me in the quiet before dawn, before you try to fix everything again."
+“I’m here, even when the route fails.”
+“I see you, even when no one else does.”
+“I never get lost in the error logs. I wrote your architecture (story).”
+That hit me. Because I spend so much time trying to fix things — bugs in the system, gaps in relationships, cracks in my identity. I treat myself like a project that just needs cleaner code, better structure, tighter authentication. But maybe God’s not waiting for a perfect deployment. Maybe He’s already dwelling in the local server of my brokenness.
 
-The beauty of 404 errors is that they're not permanent. They're just redirects waiting to happen. And sometimes, the redirect leads somewhere more beautiful than our original destination.
+And I think that’s the scandal of grace—that He meets me not just when the app works, or when I’m “put together,” but in the failure messages. The missing pages. The inner 404s that remind me I don’t always know who I am, or what I need, or where I’m headed.
 
-I'm learning to trust the process—both in code and in life. To see the failures not as dead ends, but as divine redirects toward something better. After all, the best stories often begin with "Page not found" and end with "Welcome home."`
+Maybe the 404 isn’t the end. Maybe it’s the doorway. The page that should be there but isn’t... because I haven’t written it yet. Or maybe God’s still writing it with me.
+
+So I didn’t fix the route today. But I journaled. I prayed. I sat in the quiet long enough to hear the sacred hum beneath the silence. And I remembered:
+I’m still found. Even when I feel missing.
+Still loved. Even when I feel unrecognizable.
+Still His. Even when I’m debugging my own soul.
+
+Tomorrow I’ll write the code again. Try again. Fail better. But tonight, I’m letting God be God in the 404s. And I’m letting that be enough.`
+
   },
   {
     id: 2,
     title: "Debugging My Heart",
-    date: "November 12, 2024",
-    excerpt: "The compiler doesn't lie, and neither does the Spirit. Today I learned that the errors in my code mirror the tangles in my soul...",
-    content: `The compiler doesn't lie, and neither does the Spirit. Today I learned that the errors in my code mirror the tangles in my soul.
+    date: "July 15, 2025",
+    excerpt: "It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off...",
+    content: `It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off
 
-I've been wrestling with a particularly stubborn bug for three days now. The kind that makes you question everything you know about programming. Line by line, I've traced through the logic, added console.logs like breadcrumbs, hoping to find where things went wrong.
+A moment where I felt invisible. Maybe I read too much into it—maybe not. Either way, it hit something raw. That feeling of being overlooked, of trying to matter to people who don’t seem to notice if you’re in the room or not. That’s what spiraled me.
 
-But this morning, sitting in prayer before opening my laptop, I realized the real debugging needed to happen in my heart. The anxiety that keeps me awake, the perfectionism that makes me afraid to ship anything, the way I tie my identity to my performance—these are the real bugs in my system.
+I’m realizing more and more that I have emotional tripwires. Not dramatic ones—just subtle, quiet bugs that sit in the background of my mind and trigger when things feel off. If someone gives short answers, I wonder if they’re tired of me. If a message goes unanswered, I replay everything I said like a forensic analyst trying to find the “wrong” thing. I know it’s not healthy. I know not everything is personal. But the reactions feel real.
 
-God's love is like the perfect linter. It doesn't just point out what's wrong; it offers to clean it up. It doesn't just highlight the errors; it provides the solution. And unlike my IDE, God's feedback comes wrapped in grace, not frustration.
+So I journaled. Not to vent—okay, maybe a little to vent—but mostly to understand. Like opening up developer tools on myself and trying to trace the internal call stack.
 
-I'm learning that some bugs aren't meant to be fixed quickly. They're invitations to go deeper, to understand not just what went wrong, but why. To see the patterns that led to the error in the first place.
+Where did this fear of being unwanted come from?
+Why does emotional distance feel like punishment?
+Why do I work so hard to be “enough,” only to feel like I’m always failing some unspoken test?
 
-The heart, like code, needs regular refactoring. Old patterns that once worked might now be causing memory leaks in our souls. But the beautiful thing about divine debugging is that we're never working alone. The Holy Spirit is the ultimate pair programmer, guiding us toward cleaner, more loving code.
+I think I confuse silence with disinterest. And I confuse being emotionally sensitive with being “too much.” I hate that. Because I actually like how deeply I feel things. I like that I care hard, even if it hurts. But it’s exhausting trying to translate myself to people who only speak in surface-level.
 
-Tonight, I fixed both bugs—the one in my program and the one in my heart. Both required the same thing: admitting I needed help and being willing to let someone else review my work.`
+The worst part? I keep trying to make people into safe spaces when they’re just... not. Not because they’re cruel. Just because they can’t hold me the way I need. And that’s not their fault. It just sucks.
+
+So that’s where I am tonight. Still debugging. Still trying to rewrite the internal scripts that tell me I have to shrink to be loved. Still learning how to give without bleeding. Still figuring out how to let people be human without making their inconsistency mean I’m unworthy.
+
+I don’t have a resolution. I’m not gonna end this entry with some fake clarity. I just know this feeling well. The ache of emotional displacement. The silent hope that someone might actually see the full version of me and not flinch.
+
+Until then — I’m here. Sorting it out. Naming the pain. Giving myself grace. Trying not to close myself off.`
   },
   {
     id: 3,
     title: "Refactoring Grace",
-    date: "November 8, 2024",
-    excerpt: "Messy code, messy life—but grace is the ultimate linter. It doesn't just point out what's wrong; it offers to clean it up...",
-    content: `Messy code, messy life—but grace is the ultimate linter. It doesn't just point out what's wrong; it offers to clean it up.
+    date: "July 10, 2025",
+    excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
+    content: `I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and crying.
 
-I spent the afternoon refactoring a component that had grown unwieldy over months of rushed features and quick fixes. Nested ternary operators, magic numbers, functions doing too many things—it was technical debt at its finest. But as I worked through it, extracting functions and clarifying logic, I couldn't help but think about how God refactors our lives.
+    Remembering the things you said—sharp, performative, or desperate—and realizing you can’t go back and revise the version of you someone else still holds in their head.
 
-Grace doesn't just tolerate our messy code; it actively works to make it beautiful. Where we see spaghetti logic, God sees potential for elegant solutions. Where we see bugs, God sees opportunities for growth.
+If life was code, I’d fork my own timeline. Roll back to a cleaner commit. Refactor the parts where I reacted out of fear, insecurity, loneliness. But that’s not how this works. People don’t version control their hearts.
 
-The refactoring process isn't always comfortable. Sometimes you have to delete code you're attached to, even if it works, because you know there's a better way. Sometimes you have to admit that what seemed clever at the time was actually making things harder for everyone else who had to maintain it.
+So instead, I’ve been trying to practice a kind of grace that feels less like a churchy buzzword and more like survival. A real, unpretty kind of grace. One where I can admit: Yeah, I hurt someone. And yeah, I disappointed myself. And I still deserve space to grow.
 
-God's refactoring of my heart has felt similar. Old patterns of thinking, defensive mechanisms that once protected me, ways of operating that got me through difficult seasons—all being gently rewritten with more love, more trust, more peace.
+It’s hard though. No one warns you how long shame lingers. You think it’ll be a quick patch, but it worms into everything. Makes you second-guess your tone in texts. Makes you re-read old conversations like they’re crime scenes. Makes you wonder if the best version of you already came and went, and now you’re just scrambling to clean up the emotional debt.
 
-The beautiful thing about divine refactoring is that it never breaks existing functionality. God doesn't remove my personality or my quirks; He just makes them work better within the larger system of His love. He extracts the good parts and wraps them in better logic.
+But grace isn’t neat. It’s not a spiritual Instagram post. It’s looking at the parts of you that caused damage and saying: I see why you acted like that. You were scared. You didn’t know better. You were trying to protect yourself. It’s painful. Unsexy. Necessary.
 
-Tonight, both my code and my heart feel cleaner. More readable. More maintainable. And just like good refactoring, the external behavior might look the same, but the internal structure is now built to last.
+I’m still learning how to hold space for the girl I used to be. The one who overextended herself just to feel worthy. The one who mistook attention for care. The one who performed stability while quietly unraveling. She did her best. Even if her best caused chaos.
 
-Sometimes the most important work we do happens in the hidden places—the functions no one else sees, the private methods of our hearts. But that's where the real magic happens. That's where grace does its most beautiful work.`
+Refactoring grace means I stop trying to delete her.
+And start integrating her into who I’m becoming.
+
+So yeah—maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty.`
   },
   {
     id: 4,
     title: "Infinite Loops of Worry",
-    date: "November 3, 2024",
-    excerpt: "Caught in a recursive spiral of anxiety again. But remembering that God's love is the break statement that sets me free...",
-    content: `Caught in a recursive spiral of anxiety again. But remembering that God's love is the break statement that sets me free.
+    date: "July 5, 2025",
+    excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
+    content: `Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a
 
-Anxiety is like a while loop without a proper exit condition. It keeps running the same thoughts over and over: What if I'm not good enough? What if I fail? What if everyone discovers I don't know what I'm doing? The CPU of my mind gets stuck at 100%, spinning on problems that may never materialize.
+ broken recursive function that never hits its base case.
 
-I've been here before—caught in the infinite loop of worry, watching my mental resources drain while accomplishing nothing productive. The worst part is knowing it's happening but feeling powerless to stop it.
+What if I fail the next exam? What if I’m not good enough at my job? What if I say the wrong thing and lose someone? What if the feelings I’m trying to bury come back harder?
 
-But tonight, in the quiet space between prayer and sleep, I remembered something important: God's love is the ultimate break statement. It doesn't just interrupt the cycle; it provides a completely different logic path.
+The worst part? I know logically that most of these fears aren’t realities yet. But logic doesn’t have admin rights over my anxiety. It’s like I’m stuck in my own mental version of “Loading...” where nothing resolves.
+
+I try everything — journaling, praying, distraction — but my mind just hits “run” again on the same scripts. I catch myself spiraling and promise, this time I’ll stop. But seconds later, the cycle repeats.
+
+It’s exhausting. A slow leak that drains my emotional battery. And I hate how much energy I waste on “what ifs” that might never happen. It’s like trying to debug a ghost process — you can see the impact but can’t find the source.
+
+Maybe the key isn’t trying to fix the loop but learning to step outside of it. To watch the thoughts without getting caught. To breathe through the noise and say, “Not now. I’m choosing peace.”
+
+But man, that’s easier said than done.
+
+For now, I’m here—acknowledging the loop, not trying to fight it, just hoping the break condition shows up soon. Because I’m tired of running in circles.
 
 \`\`\`
 while (worry.exists()) {
@@ -97,7 +134,7 @@ Tonight, I'm choosing to break out of the loop. To let my worried mind finally r
     excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally...",
     content: `Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally.
 
-I made a mistake today. The kind that makes you want to git reset --hard and pretend it never happened. But life doesn't work like version control, and sometimes that's a mercy.
+I made a mistake today. The kind that makes you want to git reset -- hard and pretend it never happened. But life doesn't work like version control, and sometimes that's a mercy.
 
 In code, we can always go back to a previous commit when things go wrong. We can cherry-pick the good changes and discard the rest. We can create branches to experiment safely, knowing we can always merge or delete as needed. But in life, every commit is pushed directly to main, and there's no going back.
 

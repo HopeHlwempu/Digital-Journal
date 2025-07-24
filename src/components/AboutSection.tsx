@@ -8,19 +8,18 @@ const AboutSection = () => {
         
         <div className="prose prose-lg max-w-none">
           <p className="font-lora text-lg leading-relaxed text-muted-foreground mb-6">
-            This is a space for honesty—raw, unfiltered thoughts about faith, 
+            This is a space for honesty — raw, unfiltered thoughts about faith, 
             technology, and the messy, beautiful process of growing closer to God 
-            while navigating the digital world. Here, debugging code becomes a metaphor 
+            while navigating the digital world as a young developer. Here, debugging code becomes a metaphor 
             for spiritual healing, and every broken deployment is a reminder that 
             grace covers our mistakes.
           </p>
           
           <p className="font-lora text-lg leading-relaxed text-muted-foreground mb-6">
             Whether you're a developer wrestling with imposter syndrome, a believer 
-            struggling with doubt, or someone who finds peace in both prayer and 
-            programming, this journal is for you. It's a sanctuary for processing 
-            emotions, celebrating small victories, and remembering that we're never 
-            coding—or living—alone.
+            struggling with doubt, navigating heartbreak, or simply trying to stay afloat—this journal is for you. 
+            It’s a quiet space to process emotions, celebrate small victories, ask hard questions, and remember that we’re not alone in any of it. 
+            Rooted in faith but open to the full human experience, this is a space for honesty, healing, and grace—wherever you’re at on the journey.
           </p>
           
           <div className="flex items-center justify-center gap-3 mt-8 text-primary">

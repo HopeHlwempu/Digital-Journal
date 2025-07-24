@@ -16,7 +16,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
         <h1 className="font-playfair text-5xl md:text-6xl lg:text-7xl font-semibold text-foreground mb-6 leading-tight">
-          Hope Logs
+          Starr Journals
         </h1>
         <p className="font-lora text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed max-w-2xl mx-auto">
           A journal of faith, feeling, and finding God in code

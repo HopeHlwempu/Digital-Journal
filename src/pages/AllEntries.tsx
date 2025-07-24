@@ -7,56 +7,56 @@ const blogPosts = [
   {
     id: 1,
     title: "God in the 404s",
-    date: "November 15, 2024",
-    excerpt: "Sometimes the broken links lead to the most beautiful discoveries. When my deployment failed at 2 AM, I found myself praying in a way I haven't in months...",
+    date: "July 20, 2025",
+    excerpt: "Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like...",
     category: "Faith & Code"
   },
   {
     id: 2,
     title: "Debugging My Heart",
-    date: "November 12, 2024",
-    excerpt: "The compiler doesn't lie, and neither does the Spirit. Today I learned that the errors in my code mirror the tangles in my soul...",
+    date: "July 15, 2025",
+    excerpt: "It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off...",
     category: "Personal Growth"
   },
   {
     id: 3,
     title: "Refactoring Grace",
-    date: "November 8, 2024",
-    excerpt: "Messy code, messy life—but grace is the ultimate linter. It doesn't just point out what's wrong; it offers to clean it up...",
+    date: "July 10, 2025",
+    excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
     category: "Spiritual Reflection"
   },
   {
     id: 4,
     title: "Infinite Loops of Worry",
-    date: "November 3, 2024",
-    excerpt: "Caught in a recursive spiral of anxiety again. But remembering that God's love is the break statement that sets me free...",
+    date: "July 5, 2025",
+    excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
     category: "Mental Health"
   },
   {
     id: 5,
     title: "Version Control for the Soul",
-    date: "October 29, 2024",
-    excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally...",
+    date: "June 30, 2025",
+    excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent — like being loved unconditionally...",
     category: "Faith & Code"
   },
   {
     id: 6,
     title: "Async Prayers",
-    date: "October 25, 2024",
-    excerpt: "Learning that prayer is like async functions—we don't always get immediate results, but the process transforms us while we wait...",
+    date: "June 16, 2025",
+    excerpt: "Learning that prayer is like async functions — we don't always get immediate results, but the process transforms us while we wait...",
     category: "Spiritual Reflection"
   },
   {
     id: 7,
     title: "The Art of Code Reviews",
-    date: "October 20, 2024",
+    date: "June 12, 2025",
     excerpt: "Sometimes the most growth happens when someone else looks at your work with fresh eyes and gentle honesty...",
     category: "Personal Growth"
   },
   {
     id: 8,
     title: "Stack Overflow Prayers",
-    date: "October 15, 2024",
+    date: "8 June, 2025",
     excerpt: "When you're stuck and need help from someone who's solved this problem before. Sometimes that someone is God...",
     category: "Faith & Code"
   }
