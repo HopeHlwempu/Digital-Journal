@@ -30,7 +30,9 @@ export default {
 				foreground: 'hsl(var(--foreground))',
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
-					foreground: 'hsl(var(--primary-foreground))'
+					foreground: 'hsl(var(--primary-foreground))',
+					purple: 'hsl(var(--primary-purple))',
+					'purple-foreground': 'hsl(var(--primary-purple-foreground))'
 				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
