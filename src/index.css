@@ -20,6 +20,9 @@ All colors MUST be HSL.
 
     --primary: 345 35% 65%; /* dusty rose */
     --primary-foreground: 32 25% 96%;
+    
+    --primary-purple: 280 40% 70%; /* purple variant */
+    --primary-purple-foreground: 32 25% 96%;
 
     --secondary: 45 55% 85%; /* soft gold */
     --secondary-foreground: 210 15% 25%;
@@ -76,6 +79,9 @@ All colors MUST be HSL.
 
     --primary: 345 45% 70%; /* brighter dusty rose for contrast */
     --primary-foreground: 210 20% 12%;
+    
+    --primary-purple: 280 50% 75%; /* brighter purple for dark mode */
+    --primary-purple-foreground: 210 20% 12%;
 
     --secondary: 45 50% 75%; /* warm gold */
     --secondary-foreground: 210 20% 12%;
