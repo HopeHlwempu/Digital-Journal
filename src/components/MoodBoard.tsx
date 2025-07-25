@@ -1,17 +1,17 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "processing...",
+    content: "Learning",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "Isaiah 43:2",
+    content: "Isaiah 43:2Matthew 20:28",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "'Purify' by Elevation",
+    content: "GREATEST by Billie Eilish",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
