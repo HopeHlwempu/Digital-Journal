@@ -3,14 +3,54 @@ import { Button } from "@/components/ui/button";
 import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
-  {
+    {
     id: 1,
-    title: "God in the 404s",
-    date: "July 20, 2025",
-    excerpt: "Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like...",
-    content: `Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like.
+    title: "Waking Up to the Weight of Authenticity",
+    date: "July 25, 2025",
+    excerpt: "It was hard getting out of bed today, not for the reasons you might think. It was very odd for me to wake up at...",
+    content: `It was hard getting out of bed today, not for the reasons you might think. It was very odd for me to wake up at 12pm, but i unfortunately did. 
 
-I opened my laptop like I was opening a confessional booth. Just me and my compiler and the God who somehow still shows up in my mess.
+I have this awful habit of diving into TikTok the moment I wake. It’s become a ritual, scrolling through the same recycled videos, worn-out trends, and familiar faces. Honestly, I’m not even the type to like TikTok, but I love the idea of it — the chance to connect, to share my thoughts, to express myself authentically.
+
+“Authenticity” is a word tossed around a lot, but I believe it matters. Being yourself, expressing who you truly are—that’s important. But social media has twisted authenticity into something performative. What does it mean to be real when everything’s a show?
+
+I wrestle with that every day. I struggle to be authentic, to be true to myself, without feeling like a fraud. Impostor syndrome isn’t a myth; it’s a constant companion. Who am I really? What does being authentic even mean?
+
+I saw my psychiatrist today. I don’t love going — it’s a harsh reminder of how much I struggle. The guilt hits hard: feeling weak for not “just handling it,” for not moving on fast enough. But I know mental health isn’t about weakness. It’s real, and so many people carry this heavy load.
+
+Maybe that’s why authenticity feels impossible—I feel like I have to be perfect, self-sufficient, ready to bounce back instantly.
+
+I want to cut back on social media—for my mental health and my attention span. I’d rather watch an hour-long Netflix documentary than endlessly scroll through TikTok.
+
+Don’t laugh, but every day around 4:30 PM, I watch Ryan Trahan’s “50 States in 50 Days.” I love how he shares his journey—meeting people, telling stories, just being himself. With his wife Haley, they create content that feels real and genuine.
+
+That’s what I want. To be myself. To share honestly—without guilt, shame, or the crushing pressure to be perfect.
+
+At my appointment, we talked about motivation. I told him how some days even getting out of bed feels impossible. How productivity seems foreign. He prescribed more meds, but also said something that stuck: motivation is tricky. It’s not always there, and that’s okay.
+
+It’s hard looking around and feeling like the only one with no direction, no drive. I see people my age doing amazing things while I’m stuck in place.
+
+It’s hard. I pray a lot—for clarity, strength, courage to face the day, to be authentic without shame.
+
+I pray for grace to accept and love myself, to forgive my imperfections.
+
+I pray for strength to keep going, even when everything feels against me.
+
+I pray for hope — that one day I’ll look back and see how far I’ve come.
+
+I pray for faith — that God was with me every step, guiding, loving, holding me through it all.
+
+Better days are coming, right? I can only hope so.`
+
+  },
+
+  {
+    id: 2,
+    title: "God in the 404s",
+    date: "July 20, 2025", 
+    excerpt: "Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like...",
+    content: `Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like
+I was opening a confessional booth. Just me and my compiler and the God who somehow still shows up in my mess.
 
 I was in the middle of testing a simple login flow—should’ve taken 15 minutes max. Instead, I got hit with a cascade of error messages: “Failed to fetch.” “Unauthorized.” “404 Not Found.” That last one got me. Not just because the route didn’t exist. But because it felt like my reality.
 It reminded me of how often I try to access parts of myself — or parts of others — and it’s like… nothing’s there. 
@@ -37,7 +77,7 @@ Tomorrow I’ll write the code again. Try again. Fail better. But tonight, I’m
 
   },
   {
-    id: 2,
+    id: 3,
     title: "Debugging My Heart",
     date: "July 15, 2025",
     excerpt: "It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off...",
@@ -64,7 +104,7 @@ I don’t have a resolution. I’m not gonna end this entry with some fake clari
 Until then — I’m here. Sorting it out. Naming the pain. Giving myself grace. Trying not to close myself off.`
   },
   {
-    id: 3,
+    id: 4,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
@@ -88,7 +128,7 @@ And start integrating her into who I’m becoming.
 So yeah—maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty.`
   },
   {
-    id: 4,
+    id: 5,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
@@ -128,7 +168,7 @@ Sometimes the most courageous thing we can do is add a break statement to our ru
 Tonight, I'm choosing to break out of the loop. To let my worried mind finally rest. Because the One who never sleeps is already handling whatever I'm afraid of, and His love is the most reliable exit condition I know.`
   },
   {
-    id: 5,
+    id: 6,
     title: "Version Control for the Soul",
     date: "October 29, 2024",
     excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally...",

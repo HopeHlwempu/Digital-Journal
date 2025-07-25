@@ -4,57 +4,66 @@ import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
-  {
+   {
     id: 1,
+    title: "Waking Up to the Weight of Authenticity",
+    date: "July 25, 2025",
+    excerpt: "It was hard getting out of bed today, not for the reasons you might think. It was very odd for me to wake up at...",
+    category: "Personal Growth"
+  },
+ 
+ 
+  {
+    id: 2,
     title: "God in the 404s",
     date: "July 20, 2025",
     excerpt: "Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like...",
     category: "Faith & Code"
   },
   {
-    id: 2,
+    id: 3,
     title: "Debugging My Heart",
     date: "July 15, 2025",
     excerpt: "It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off...",
     category: "Personal Growth"
   },
   {
-    id: 3,
+    id: 4,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
     category: "Spiritual Reflection"
   },
   {
-    id: 4,
+    id: 5,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
     category: "Mental Health"
   },
   {
-    id: 5,
+    id: 6,
     title: "Version Control for the Soul",
     date: "June 30, 2025",
     excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent — like being loved unconditionally...",
     category: "Faith & Code"
   },
   {
-    id: 6,
+    id: 7,
     title: "Async Prayers",
     date: "June 16, 2025",
     excerpt: "Learning that prayer is like async functions — we don't always get immediate results, but the process transforms us while we wait...",
     category: "Spiritual Reflection"
   },
   {
-    id: 7,
+    id: 8,
     title: "The Art of Code Reviews",
     date: "June 12, 2025",
     excerpt: "Sometimes the most growth happens when someone else looks at your work with fresh eyes and gentle honesty...",
     category: "Personal Growth"
   },
   {
-    id: 8,
+    id: 9,
     title: "Stack Overflow Prayers",
     date: "8 June, 2025",
     excerpt: "When you're stuck and need help from someone who's solved this problem before. Sometimes that someone is God...",
