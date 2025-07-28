@@ -10,14 +10,14 @@ const pictures = [
     src: picture1,
     caption: "My beautiful friend",
     date: "Yesterday",
-    reflection: "Starting the day with gratitude"
+    reflection: "Spending time with those who inspire me",
   },
   {
     id: 2,
     src: picture2,
     caption: "Family time",
     date: "Yesterday",
-    reflection: "Remebering to rest and recharge"
+    reflection: "Remembering the importance of connection",
   },
   {
     id: 3,

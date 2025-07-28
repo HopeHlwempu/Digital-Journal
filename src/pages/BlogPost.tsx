@@ -17,6 +17,9 @@ One of those things? Love. The in-love, butterfly, chaos kind of love. I crave i
 Still, I catch myself yearning. Then I get mad for yearning. Then I remember: stay present. Just stay here.
 But here’s the thing. Being a young Christian isn’t just about abstaining from sex, weed, and spontaneous bad ideas. 
 It’s about carrying a consciousness the world doesn’t. It’s knowing that sin has weight. 
+It’s feeling the heaviness of choices that seem harmless but are actually like adding bricks to your soul’s backpack.
+It’s about the little things that creep in, like a slow leak in your tire. You don’t notice it at first, but eventually, you’re driving on rims and wondering why your ride feels so rough.
+
 Knowing that even if culture claps for your choices, the Spirit might be grieving. That’s the part no one warns you about — the conviction that hits like a freight train over the “harmless” stuff.
 
 Like… vape. Yes. Freaking vape.
