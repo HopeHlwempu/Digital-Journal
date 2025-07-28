@@ -13,6 +13,7 @@ I’m not talking about church camp testimonies or Instagram verses with sunset 
 not out of fear, but because you know better. Because you’ve tasted something deeper, purer, and somehow... harder. Following Christ means I don’t get to do what “everyone else” does. 
 There’s a whole universe of experiences I’ve said no to—some out of wisdom, some out of sheer obedience. And while I’m grateful (I am grateful), it’s also a strange kind of grief. 
 Like I’ve stepped out of the party early and now I’m staring through the window, wondering what it’s like to dance without consequence.
+
 One of those things? Love. The in-love, butterfly, chaos kind of love. I crave it. I ache for it. And yet, I trust God has already settled that matter in the heavenly admin of my life. 
 Still, I catch myself yearning. Then I get mad for yearning. Then I remember: stay present. Just stay here.
 But here’s the thing. Being a young Christian isn’t just about abstaining from sex, weed, and spontaneous bad ideas. 
@@ -28,6 +29,7 @@ I feel stupid even writing that, but here we are. I’m addicted to flavoured ai
 I spent the money my mom gave me for my hair. R400 gone. I’m down to R68. She doesn’t know yet, and I’m already scheming a cover story. 
 That's the thing about addiction: it turns you into someone with plans. Plans to lie, to hide, to dodge. That’s not me. That’s not who I want to be.
 I hate lying. It always finds its way back around—guilt has a GPS.
+
 I know this isn’t the life God intended for me. A life of shame, cycles, and cover-ups. I want to live in the light. 
 I want to read the Word with no secondhand guilt clouding my spirit. I want to be free. But some days, it feels impossible. I repent… and then I circle back. 
 Like a dog returning to its own vomit (yes, I know—graphic — but Scripture doesn’t sugarcoat, so neither will I).
