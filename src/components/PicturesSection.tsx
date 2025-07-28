@@ -8,14 +8,14 @@ const pictures = [
   {
     id: 1,
     src: picture1,
-    caption: "Morning pages with coffee",
-    date: "Today",
+    caption: "My beautiful friend",
+    date: "Yesterday",
     reflection: "Starting the day with gratitude"
   },
   {
     id: 2,
     src: picture2,
-    caption: "Netflix & chill",
+    caption: "Family time",
     date: "Yesterday",
     reflection: "Remebering to rest and recharge"
   },
@@ -29,9 +29,9 @@ const pictures = [
 ];
 
 const currentSong = {
-  title: "More Than Anything",
-  artist: "Sunday Service Choir",
-  mood: "reflective"
+  title: "What A God",
+  artist: "SEU Worship",
+  mood: "thankful"
 };
 
 const PicturesSection = () => {

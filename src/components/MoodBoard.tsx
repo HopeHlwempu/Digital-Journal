@@ -1,32 +1,32 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "Learning",
+    content: "Guilty",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "Isaiah 43:2Matthew 20:28",
+    content: "Galations 5:22-23",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "GREATEST by Billie Eilish",
+    content: "YET by the King will come",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "peace + clarity",
+    content: "freedom + forgiveness",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
     label: "Today's Prayer",
-    content: "Help me trust the process",
+    content: "Teach me to love You with my decisions, not just my intentions",
     color: "bg-primary/5 border-primary/20 text-foreground"
   },
   {
     label: "Learning",
-    content: "TypeScript & patience",
+    content: "surrendering & self-descipline",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];

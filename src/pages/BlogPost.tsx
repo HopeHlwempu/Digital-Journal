@@ -3,108 +3,48 @@ import { Button } from "@/components/ui/button";
 import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
-    {
+  {
     id: 1,
-    title: "Waking Up to the Weight of Authenticity",
-    date: "July 25, 2025",
-    excerpt: "It was hard getting out of bed today, not for the reasons you might think. It was very odd for me to wake up at...",
-    content: `It was hard getting out of bed today, not for the reasons you might think. It was very odd for me to wake up at 12pm, but i unfortunately did. 
+    title: "Flavoured Air & Other Demons",
+    date: "July 28, 2025",
+    excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
+    content: `Nobody really talks about how gritty it is to be a young Christian. 
+I’m not talking about church camp testimonies or Instagram verses with sunset backgrounds. I mean really living it—turning away from what the world glorifies, 
+not out of fear, but because you know better. Because you’ve tasted something deeper, purer, and somehow... harder. Following Christ means I don’t get to do what “everyone else” does. 
+There’s a whole universe of experiences I’ve said no to—some out of wisdom, some out of sheer obedience. And while I’m grateful (I am grateful), it’s also a strange kind of grief. 
+Like I’ve stepped out of the party early and now I’m staring through the window, wondering what it’s like to dance without consequence.
+One of those things? Love. The in-love, butterfly, chaos kind of love. I crave it. I ache for it. And yet, I trust God has already settled that matter in the heavenly admin of my life. 
+Still, I catch myself yearning. Then I get mad for yearning. Then I remember: stay present. Just stay here.
+But here’s the thing. Being a young Christian isn’t just about abstaining from sex, weed, and spontaneous bad ideas. 
+It’s about carrying a consciousness the world doesn’t. It’s knowing that sin has weight. 
+Knowing that even if culture claps for your choices, the Spirit might be grieving. That’s the part no one warns you about — the conviction that hits like a freight train over the “harmless” stuff.
 
-I have this awful habit of diving into TikTok the moment I wake. It’s become a ritual, scrolling through the same recycled videos, worn-out trends, and familiar faces. Honestly, I’m not even the type to like TikTok, but I love the idea of it — the chance to connect, to share my thoughts, to express myself authentically.
+Like… vape. Yes. Freaking vape.
 
-“Authenticity” is a word tossed around a lot, but I believe it matters. Being yourself, expressing who you truly are—that’s important. But social media has twisted authenticity into something performative. What does it mean to be real when everything’s a show?
+I feel stupid even writing that, but here we are. I’m addicted to flavoured air and the illusion of relief. It’s expensive, it’s stupid, and worst of all—it’s dishonest. 
+I spent the money my mom gave me for my hair. R400 gone. I’m down to R68. She doesn’t know yet, and I’m already scheming a cover story. 
+That's the thing about addiction: it turns you into someone with plans. Plans to lie, to hide, to dodge. That’s not me. That’s not who I want to be.
+I hate lying. It always finds its way back around—guilt has a GPS.
+I know this isn’t the life God intended for me. A life of shame, cycles, and cover-ups. I want to live in the light. 
+I want to read the Word with no secondhand guilt clouding my spirit. I want to be free. But some days, it feels impossible. I repent… and then I circle back. 
+Like a dog returning to its own vomit (yes, I know—graphic — but Scripture doesn’t sugarcoat, so neither will I).
 
-I wrestle with that every day. I struggle to be authentic, to be true to myself, without feeling like a fraud. Impostor syndrome isn’t a myth; it’s a constant companion. Who am I really? What does being authentic even mean?
+And here’s the kicker: I know God still loves me. I know it. But the question that eats at me is — do I love Him back in the way He deserves? If I did, wouldn’t I have quit by now?
+But today, I’m choosing to try again. That’s the only way out of this loop — intentional love. Small steps. No more buying choef unless I have real extra money. 
+No lying. No spiraling. If I can’t afford it, tough luck.
 
-I saw my psychiatrist today. I don’t love going — it’s a harsh reminder of how much I struggle. The guilt hits hard: feeling weak for not “just handling it,” for not moving on fast enough. But I know mental health isn’t about weakness. It’s real, and so many people carry this heavy load.
+I’m praying again. I’m talking to God more. I’m making space to breathe without the burn in my throat. 
+I want to walk this out — not because I’m scared of hell, but because I’m tired of building one in my own chest.
 
-Maybe that’s why authenticity feels impossible—I feel like I have to be perfect, self-sufficient, ready to bounce back instantly.
+So no, I’m not a saint. But I’m His. And even when I feel like a walking contradiction, I know I’m not walking alone.
 
-I want to cut back on social media—for my mental health and my attention span. I’d rather watch an hour-long Netflix documentary than endlessly scroll through TikTok.
-
-Don’t laugh, but every day around 4:30 PM, I watch Ryan Trahan’s “50 States in 50 Days.” I love how he shares his journey—meeting people, telling stories, just being himself. With his wife Haley, they create content that feels real and genuine.
-
-That’s what I want. To be myself. To share honestly—without guilt, shame, or the crushing pressure to be perfect.
-
-At my appointment, we talked about motivation. I told him how some days even getting out of bed feels impossible. How productivity seems foreign. He prescribed more meds, but also said something that stuck: motivation is tricky. It’s not always there, and that’s okay.
-
-It’s hard looking around and feeling like the only one with no direction, no drive. I see people my age doing amazing things while I’m stuck in place.
-
-It’s hard. I pray a lot—for clarity, strength, courage to face the day, to be authentic without shame.
-
-I pray for grace to accept and love myself, to forgive my imperfections.
-
-I pray for strength to keep going, even when everything feels against me.
-
-I pray for hope — that one day I’ll look back and see how far I’ve come.
-
-I pray for faith — that God was with me every step, guiding, loving, holding me through it all.
-
-Better days are coming, right? I can only hope so.`
-
-  },
-
-  {
-    id: 2,
-    title: "God in the 404s",
-    date: "July 20, 2025", 
-    excerpt: "Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like...",
-    content: `Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like
-I was opening a confessional booth. Just me and my compiler and the God who somehow still shows up in my mess.
-
-I was in the middle of testing a simple login flow—should’ve taken 15 minutes max. Instead, I got hit with a cascade of error messages: “Failed to fetch.” “Unauthorized.” “404 Not Found.” That last one got me. Not just because the route didn’t exist. But because it felt like my reality.
-It reminded me of how often I try to access parts of myself — or parts of others — and it’s like… nothing’s there. 
-Like trying to reach someone I love and getting an emotionally blue tick. Like praying for clarity and hearing silence. Like showing up for people who never come back into my life. 
-It’s insane how something as sterile and technical as a 404 can feel personal. I just sat there, hands off the keyboard, staring. I could feel the lump in my throat, 90% because of my frustration from my code, but the other 10% was from the ache. That old, familiar ache of disconnection, of isolation, of wondering if I’m ever going to get it right.
-The kind you can't fix with a patch update or a pull request. The kind that whispers and says: “Maybe you’re the one that’s not found.”
-But that’s when God came through in His classic, subtle way. Not loud. Not flashy. More like a steady, unassuming presence that sat down next to me in the dark. No judgment. No “you should’ve known better.” Just presence. Still. Soft. Steady.
-
-“I’m here, even when the route fails.”
-“I see you, even when no one else does.”
-“I never get lost in the error logs. I wrote your architecture (story).”
-That hit me. Because I spend so much time trying to fix things — bugs in the system, gaps in relationships, cracks in my identity. I treat myself like a project that just needs cleaner code, better structure, tighter authentication. But maybe God’s not waiting for a perfect deployment. Maybe He’s already dwelling in the local server of my brokenness.
-
-And I think that’s the scandal of grace—that He meets me not just when the app works, or when I’m “put together,” but in the failure messages. The missing pages. The inner 404s that remind me I don’t always know who I am, or what I need, or where I’m headed.
-
-Maybe the 404 isn’t the end. Maybe it’s the doorway. The page that should be there but isn’t... because I haven’t written it yet. Or maybe God’s still writing it with me.
-
-So I didn’t fix the route today. But I journaled. I prayed. I sat in the quiet long enough to hear the sacred hum beneath the silence. And I remembered:
-I’m still found. Even when I feel missing.
-Still loved. Even when I feel unrecognizable.
-Still His. Even when I’m debugging my own soul.
-
-Tomorrow I’ll write the code again. Try again. Fail better. But tonight, I’m letting God be God in the 404s. And I’m letting that be enough.`
+Let the devil seethe.
+God is with me.
+And I’m with God`
 
   },
   {
-    id: 3,
-    title: "Debugging My Heart",
-    date: "July 15, 2025",
-    excerpt: "It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off...",
-    content: `It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off
-
-A moment where I felt invisible. Maybe I read too much into it—maybe not. Either way, it hit something raw. That feeling of being overlooked, of trying to matter to people who don’t seem to notice if you’re in the room or not. That’s what spiraled me.
-
-I’m realizing more and more that I have emotional tripwires. Not dramatic ones—just subtle, quiet bugs that sit in the background of my mind and trigger when things feel off. If someone gives short answers, I wonder if they’re tired of me. If a message goes unanswered, I replay everything I said like a forensic analyst trying to find the “wrong” thing. I know it’s not healthy. I know not everything is personal. But the reactions feel real.
-
-So I journaled. Not to vent—okay, maybe a little to vent—but mostly to understand. Like opening up developer tools on myself and trying to trace the internal call stack.
-
-Where did this fear of being unwanted come from?
-Why does emotional distance feel like punishment?
-Why do I work so hard to be “enough,” only to feel like I’m always failing some unspoken test?
-
-I think I confuse silence with disinterest. And I confuse being emotionally sensitive with being “too much.” I hate that. Because I actually like how deeply I feel things. I like that I care hard, even if it hurts. But it’s exhausting trying to translate myself to people who only speak in surface-level.
-
-The worst part? I keep trying to make people into safe spaces when they’re just... not. Not because they’re cruel. Just because they can’t hold me the way I need. And that’s not their fault. It just sucks.
-
-So that’s where I am tonight. Still debugging. Still trying to rewrite the internal scripts that tell me I have to shrink to be loved. Still learning how to give without bleeding. Still figuring out how to let people be human without making their inconsistency mean I’m unworthy.
-
-I don’t have a resolution. I’m not gonna end this entry with some fake clarity. I just know this feeling well. The ache of emotional displacement. The silent hope that someone might actually see the full version of me and not flinch.
-
-Until then — I’m here. Sorting it out. Naming the pain. Giving myself grace. Trying not to close myself off.`
-  },
-  {
-    id: 4,
+    id: 5,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
@@ -128,7 +68,7 @@ And start integrating her into who I’m becoming.
 So yeah—maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty.`
   },
   {
-    id: 5,
+    id: 6,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
@@ -168,7 +108,7 @@ Sometimes the most courageous thing we can do is add a break statement to our ru
 Tonight, I'm choosing to break out of the loop. To let my worried mind finally rest. Because the One who never sleeps is already handling whatever I'm afraid of, and His love is the most reliable exit condition I know.`
   },
   {
-    id: 6,
+    id: 7,
     title: "Version Control for the Soul",
     date: "October 29, 2024",
     excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally...",
