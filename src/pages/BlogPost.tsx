@@ -5,6 +5,66 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 const blogPosts = [
   {
     id: 1,
+    title: "KABOOM! It is what it is",
+    date: "July 29, 2025",
+    excerpt: "This american summer was different. While everyone was glued to Love Island or drowning in reruns, I was...",
+    content: `This american summer was different.
+
+While everyone was glued to Love Island or drowning in reruns, I was religiously watching two things: House M.D. and Ryan Trahan’s 50 States in 50 Days series. 
+Yes — one show taught me about human dysfunction, and the other… restored my faith in it.
+
+Ryan and Haley Trahan (aka the world’s softest power couple) spent 50 days road-tripping across all 50 U.S. states, staying in some of the strangest, most beautiful Airbnbs I've ever seen — 
+acorn treehouses, missile silos, a Star Wars desert dome, even a Frank Lloyd Wright knockoff in Arizona. And all of it was done in the name of raising $1 million for St. Jude.
+
+Except they didn’t raise $1 million.
+They raised over $11 million, and counting.
+
+And somehow, none of it felt like a fundraiser. It just felt like joy. Every episode was its own little pocket of comfort. 
+Ryan in his white T-shirt and jorts. Haley in her yellow top and adidas. The outfits never changed, and neither did the feeling — warm, consistent, safe. 
+They felt like characters in a show I didn’t want to end. And yet, it was all real.
+
+I’d watch an episode of House, get emotionally wrecked by some existential medical mystery, and then immediately watch Ryan and Haley argue over road trip snacks or laugh their way through a Wheel of Doom penalty. 
+That rhythm became my summer liturgy. Pain and peace, back to back. The Wheel of Doom, by the way, was a chaotic masterpiece. 
+For every $50,000 raised, it spun — and the penalty usually involved public embarrassment, logistical nightmares, or emotional trauma (the fun kind). 
+MrBeast triggered the first spin. I expected more from Jimmy if I’m being honest, but at least he showed up.
+
+And then there was Lectric. On Day 3, the e-bike company surprised Ryan and Haley in person, offering to donate $10,000 for every day Ryan rode their bike. 
+That bike ended up being the unsung hero of the entire trip.
+
+Some moments I’ll never forget:
+New Mexico – the underground missile silo episode where we met Raul, a random host who dropped the iconic words: “KABOOM, it is what it is.” 
+No one expected him to become a central character in the lore, but he did.
+
+Utah – those landscapes were unreal. My eyes felt baptized.
+
+Day 26 – the first split. Ryan and Haley had to make it to the Airbnb separately. It was probably my favorite. 
+Watching Haley hold her own on Ryan’s channel felt like a fresh perspective we didn’t know we needed.
+
+Day 34 – Life Swap. Haley literally became Ryan for a day — joyride, narration, and all. We love a versatile queen.
+
+By the time they hit Hawaii on Day 50, it felt like finishing a good book. Bitter. Sweet. A little empty. But mostly full.
+
+What struck me the most — beyond the Airbnbs, beyond the jokes and bike rides — was how many people donated. 
+Some dropped thousands like it was nothing. It reminded me that generosity isn’t dead. That maybe, when you strip away the algorithms and the noise, people still want to do something good.
+
+And watching Ryan use his platform for that?
+It didn’t feel performative.
+It felt kingdom-minded.
+
+There’s something so powerful about using joy as a vehicle for change. About living in a way that says, “We can laugh, travel, fundraise, and still reflect something divine.”
+And watching that unfold for 50 days straight?
+That did something to me.
+
+So no, I’m not ashamed that I skipped the drama shows and tuned in for matching jorts and Airbnbs.
+This was joy with intention.
+And for a summer that could’ve felt heavy or forgettable…
+
+KABOOM. It is what it is.
+And it was beautiful.`
+
+  },
+  {
+    id: 2,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
@@ -49,7 +109,7 @@ And I’m with God`
 
   },
   {
-    id: 5,
+    id: 3,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
@@ -70,10 +130,10 @@ I’m still learning how to hold space for the girl I used to be. The one who ov
 Refactoring grace means I stop trying to delete her.
 And start integrating her into who I’m becoming.
 
-So yeah—maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty.`
+So yeah — maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty.`
   },
   {
-    id: 6,
+    id: 4,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
@@ -113,7 +173,7 @@ Sometimes the most courageous thing we can do is add a break statement to our ru
 Tonight, I'm choosing to break out of the loop. To let my worried mind finally rest. Because the One who never sleeps is already handling whatever I'm afraid of, and His love is the most reliable exit condition I know.`
   },
   {
-    id: 7,
+    id: 5,
     title: "Version Control for the Soul",
     date: "October 29, 2024",
     excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally...",

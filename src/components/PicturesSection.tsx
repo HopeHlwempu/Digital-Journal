@@ -17,7 +17,7 @@ const pictures = [
     src: picture2,
     caption: "Family time",
     date: "Yesterday",
-    reflection: "Remembering the importance of connection",
+    reflection: "Ryan & Haley celebrating their 50 day trip around America",
   },
   {
     id: 3,
@@ -29,9 +29,9 @@ const pictures = [
 ];
 
 const currentSong = {
-  title: "What A God",
-  artist: "SEU Worship",
-  mood: "thankful"
+  title: "Moon River",
+  artist: "Frank Ocean",
+  mood: "Reminiscent"
 };
 
 const PicturesSection = () => {

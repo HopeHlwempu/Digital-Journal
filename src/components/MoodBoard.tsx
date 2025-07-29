@@ -1,7 +1,7 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "Guilty",
+    content: "Grateful + Guilty",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
@@ -11,22 +11,22 @@ const moodItems = [
   },
   {
     label: "Currently Listening",
-    content: "YET by the King will come",
+    content: "Godspeed by Frank Ocean",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "freedom + forgiveness",
+    content: "peace & intergrity",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
     label: "Today's Prayer",
-    content: "Teach me to love You with my decisions, not just my intentions",
+    content: "Help me believe that trying again still counts",
     color: "bg-primary/5 border-primary/20 text-foreground"
   },
   {
     label: "Learning",
-    content: "surrendering & self-descipline",
+    content: "Honesty + Consistency",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];
