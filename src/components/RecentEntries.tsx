@@ -10,7 +10,7 @@ const blogPosts = [
     date: "July 29, 2025",
     excerpt: "This american summer was different. While everyone was glued to Love Island or drowning in reruns, I was..."
   },
-      {
+  {
     id: 2,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",

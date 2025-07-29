@@ -1,5 +1,5 @@
 import picture1 from "@/assets/picture-1.jpg";
-import picture2 from "@/assets/picture-2.jpg";
+import picture2 from "@/assets/picture-2.jpeg";
 import picture3 from "@/assets/picture-3.jpg";
 import { Card, CardContent } from "@/components/ui/card";
 import { Heart, Calendar } from "lucide-react";
@@ -15,7 +15,7 @@ const pictures = [
   {
     id: 2,
     src: picture2,
-    caption: "Family time",
+    caption: "50 States in 50 Days",
     date: "Yesterday",
     reflection: "Ryan & Haley celebrating their 50 day trip around America",
   },
@@ -24,8 +24,8 @@ const pictures = [
     src: picture3,
     caption: "Evening devotions",
     date: "July 22, 2025",
-    reflection: "Finding peace in His word"
-  }
+    reflection: "Finding peace in His word",
+  },
 ];
 
 const currentSong = {
