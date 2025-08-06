@@ -5,62 +5,50 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 const blogPosts = [
   {
     id: 1,
-    title: "KABOOM! It is what it is",
-    date: "July 29, 2025",
-    excerpt: "This american summer was different. While everyone was glued to Love Island or drowning in reruns, I was...",
-    content: `This american summer was different.
+    title: "Mission: Take My Life Back",
+    date: "August 6, 2025",
+    excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
+    content: `Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. 
+    The kind of thing people say in TED Talks before dramatically revealing they once lived in a van or something. But unlike them, my dramatic reveal is that I couldn’t get out of bed at 9am like I planned. 
+    My alarm went off, sure. But I hit snooze like it owed me money and finally peeled my face off the pillow at 11 — only because someone had the audacity to call me. 
+    So… mission failed before it even started. But hey, I made breakfast.
 
-While everyone was glued to Love Island or drowning in reruns, I was religiously watching two things: House M.D. and Ryan Trahan’s 50 States in 50 Days series. 
-Yes — one show taught me about human dysfunction, and the other… restored my faith in it.
+Let me back up. For the last month and a half, I’ve been procrastinating with Olympic-level commitment. It’s not even conscious half the time. 
+It’s like I’m floating through each day in neutral, feeding myself, showering occasionally, doomscrolling a lot. The scary part? That might be the only consistency in my life right now. 
+Everything else is foggy. And not the romantic, mysterious kind of fog. More like there’s-a-sinkhole-under-the-road-but-the-mist-won’t-let-you-see-it kind of fog.
 
-Ryan and Haley Trahan (aka the world’s softest power couple) spent 50 days road-tripping across all 50 U.S. states, staying in some of the strangest, most beautiful Airbnbs I've ever seen — 
-acorn treehouses, missile silos, a Star Wars desert dome, even a Frank Lloyd Wright knockoff in Arizona. And all of it was done in the name of raising $1 million for St. Jude.
+I’m stuck in this weird limbo. I’m not in school. I’m not employed. I’m not sure if I’m going to university next year — and the not knowing is tearing my insides apart. 
+I already took a gap year after matric. That decision came with hope. It was supposed to be one year. One break. A time to breathe, figure things out, gather myself. 
 
-Except they didn’t raise $1 million.
-They raised over $11 million, and counting.
+But now?
 
-And somehow, none of it felt like a fundraiser. It just felt like joy. Every episode was its own little pocket of comfort. 
-Ryan in his white T-shirt and jorts. Haley in her yellow top and adidas. The outfits never changed, and neither did the feeling — warm, consistent, safe. 
-They felt like characters in a show I didn’t want to end. And yet, it was all real.
+My mom still doesn’t have a job. The financial weight is slowly flattening every option I thought I had. 
+I’ve applied to over 500 jobs, no exaggeration. No responses. No interviews. Nothing that even smells like forward movement. And I have prayed. I’ve cried and prayed and pleaded with God more times than I can count. 
+Still — silence. Or maybe just stillness. I don’t know which is worse. 
 
-I’d watch an episode of House, get emotionally wrecked by some existential medical mystery, and then immediately watch Ryan and Haley argue over road trip snacks or laugh their way through a Wheel of Doom penalty. 
-That rhythm became my summer liturgy. Pain and peace, back to back. The Wheel of Doom, by the way, was a chaotic masterpiece. 
-For every $50,000 raised, it spun — and the penalty usually involved public embarrassment, logistical nightmares, or emotional trauma (the fun kind). 
-MrBeast triggered the first spin. I expected more from Jimmy if I’m being honest, but at least he showed up.
+I think I’m grieving a version of my life that was supposed to happen by now. A version where I knew what came next. Where I had a plan and enough resources to execute it. Where my mother was okay. 
+Where I wasn’t waking up every day trying to invent meaning for myself like some desperate playwright with writer’s block.
 
-And then there was Lectric. On Day 3, the e-bike company surprised Ryan and Haley in person, offering to donate $10,000 for every day Ryan rode their bike. 
-That bike ended up being the unsung hero of the entire trip.
+God is either silent or not listening.
+I’m not sure which is worse. I’ve been trying to take my life back, but it feels like I’m just running in circles.
 
-Some moments I’ll never forget:
-New Mexico – the underground missile silo episode where we met Raul, a random host who dropped the iconic words: “KABOOM, it is what it is.” 
-No one expected him to become a central character in the lore, but he did.
+This morning’s goal to "stop procrastinating" was me trying to yank the emergency brake on this slow, numbing descent. 
+I have a meeting coming up on Friday with Sarah and Davin — mentors, kind of — and they expect me to come prepared. 
+They want to see some exploration into backend logging and debugging techniques in the web app I’m building. It sounds manageable. And honestly, I do know a good amount about my software’s architecture. 
+It’s not like I’m walking in blind. But I still feel unmoored. I hate when people tell me to “play around” without giving a clear direction. I’m a practical learner. I want tangible goals, structure, an outcome to aim for. 
+Otherwise it just feels like throwing darts in a pitch-black room and pretending I’m improving my aim.
 
-Utah – those landscapes were unreal. My eyes felt baptized.
+After breakfast, I watched an episode of Black-ish. It was comforting in that “my-life-is-chaotic-but-here’s-some-scripted-chaos” way. 
+Showered. Sat at my desk. Did a bit of research. That was the high point of the day, honestly. The rest was just thinking. A lot of that lately.
+I’m trying to figure out what I actually want. What I care about. What I’m passionate about. And it’s like trying to find a needle in a haystack that keeps growing.
 
-Day 26 – the first split. Ryan and Haley had to make it to the Airbnb separately. It was probably my favorite. 
-Watching Haley hold her own on Ryan’s channel felt like a fresh perspective we didn’t know we needed.
+I don’t want to be told to "set small goals" or "celebrate tiny wins." I’m not a toddler learning to use the potty. I don’t want fake trophies. 
+I want to feel like I’m building toward something that actually matters. I swear, I’ve read all the productivity blogs. Made the to-do lists. Drunk the water. Taken the walks. 
+Done the journaling (obviously). But you can’t build a staircase to nowhere. Outside of the slim, flickering hope of university next year — there’s just… nothing I actually care about. 
+Nothing that gives me that spark. Everything else feels like empty calories. And I’m starving for something real.
 
-Day 34 – Life Swap. Haley literally became Ryan for a day — joyride, narration, and all. We love a versatile queen.
-
-By the time they hit Hawaii on Day 50, it felt like finishing a good book. Bitter. Sweet. A little empty. But mostly full.
-
-What struck me the most — beyond the Airbnbs, beyond the jokes and bike rides — was how many people donated. 
-Some dropped thousands like it was nothing. It reminded me that generosity isn’t dead. That maybe, when you strip away the algorithms and the noise, people still want to do something good.
-
-And watching Ryan use his platform for that?
-It didn’t feel performative.
-It felt kingdom-minded.
-
-There’s something so powerful about using joy as a vehicle for change. About living in a way that says, “We can laugh, travel, fundraise, and still reflect something divine.”
-And watching that unfold for 50 days straight?
-That did something to me.
-
-So no, I’m not ashamed that I skipped the drama shows and tuned in for matching jorts and Airbnbs.
-This was joy with intention.
-And for a summer that could’ve felt heavy or forgettable…
-
-KABOOM. It is what it is.
-And it was beautiful.`
+So yeah. I tried to take my life back today. Tried. Maybe I’ll try again tomorrow. Or maybe I won’t. But at least I’ve written it down. That has to count for something.
+`
 
   },
   {

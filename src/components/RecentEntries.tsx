@@ -6,9 +6,9 @@ const blogPosts = [
 
         {
     id: 1,
-    title: "KABOOM, It Is What It Is",
-    date: "July 29, 2025",
-    excerpt: "This american summer was different. While everyone was glued to Love Island or drowning in reruns, I was..."
+    title: "Mission: Take My Life Back",
+    date: "August 6, 2025",
+    excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of..."
   },
   {
     id: 2,

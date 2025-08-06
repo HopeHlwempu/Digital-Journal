@@ -5,8 +5,16 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
 
-     {
+       {
     id: 1,
+    title: "Mission: Take My Life Back",
+    date: "August 6, 2025",
+    excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
+    category: "Personal Growth"
+  },
+
+     {
+    id: 2,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",

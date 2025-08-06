@@ -1,4 +1,4 @@
-import picture1 from "@/assets/picture-1.jpg";
+import picture1 from "@/assets/picture-1.jpeg";
 import picture2 from "@/assets/picture-2.jpeg";
 import picture3 from "@/assets/picture-3.jpg";
 import { Card, CardContent } from "@/components/ui/card";
@@ -8,16 +8,16 @@ const pictures = [
   {
     id: 1,
     src: picture1,
-    caption: "My beautiful friend",
-    date: "Yesterday",
+    caption: "Capturing me & my best friend",
+    date: "Sunday",
     reflection: "Spending time with those who inspire me",
   },
   {
     id: 2,
     src: picture2,
-    caption: "50 States in 50 Days",
-    date: "Yesterday",
-    reflection: "Ryan & Haley celebrating their 50 day trip around America",
+    caption: "Church Bathroom",
+    date: "Sunday",
+    reflection: "New renovations, same building",
   },
   {
     id: 3,
