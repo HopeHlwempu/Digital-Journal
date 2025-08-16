@@ -1,6 +1,6 @@
 import picture1 from "@/assets/picture-1.jpeg";
 import picture2 from "@/assets/picture-2.jpeg";
-import picture3 from "@/assets/picture-3.jpg";
+import picture3 from "@/assets/picture-3.jpeg";
 import { Card, CardContent } from "@/components/ui/card";
 import { Heart, Calendar } from "lucide-react";
 
@@ -29,9 +29,9 @@ const pictures = [
 ];
 
 const currentSong = {
-  title: "What A God",
-  artist: "SEU Worship, ONE HOUSE, Kenzie Walker, Chelsea Plank, Roosevelt Stewart",
-  mood: "Grateful"
+  title: "ROLE MODEL",
+  artist: "Brent Faiyaz",
+  mood: "Happy"
 };
 
 const PicturesSection = () => {
