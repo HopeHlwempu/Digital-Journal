@@ -8,30 +8,30 @@ const pictures = [
   {
     id: 1,
     src: picture1,
-    caption: "Capturing me & my best friend",
-    date: "Sunday",
-    reflection: "Spending time with those who inspire me",
+    caption: "Running fit",
+    date: "Friday",
+    reflection: "Putting in the sweat for a healthier me",
   },
   {
     id: 2,
     src: picture2,
-    caption: "Church Bathroom",
-    date: "Sunday",
-    reflection: "New renovations, same building",
+    caption: "My dream library",
+    date: "9 August 2025",
+    reflection: "A glimpse of my future sanctuary",
   },
   {
     id: 3,
     src: picture3,
-    caption: "Evening devotions",
-    date: "July 22, 2025",
+    caption: "Favourite fit ",
+    date: "21 September 2024",
     reflection: "Finding peace in His word",
   },
 ];
 
 const currentSong = {
-  title: "Moon River",
-  artist: "Frank Ocean",
-  mood: "Reminiscent"
+  title: "What A God",
+  artist: "SEU Worship, ONE HOUSE, Kenzie Walker, Chelsea Plank, Roosevelt Stewart",
+  mood: "Grateful"
 };
 
 const PicturesSection = () => {

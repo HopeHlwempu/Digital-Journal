@@ -3,6 +3,40 @@ import { Button } from "@/components/ui/button";
 import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
+  
+    {
+    id: 1,
+    title: "The Year I Fell Behind",
+    date: "August 18, 2025",
+    excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
+    content: `Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked. Not in a cute, “I found myself” kind of way. 
+    Not in a “look at me, eating avocado toast in Bali” way. Just… me. Messy, stuck, sometimes utterly miserable. It tore me down before it ever tried to build me up.
+At first, I thought pressing pause on my life would feel freeing. Everyone else was sprinting: degrees, internships, paychecks, LinkedIn updates. 
+And there I was… frozen. Terrifyingly still. Every day I stared at the clock thinking: “Am I failing? Am I broken?” The guilt was heavy — crushing even — because my mom, she had expectations. 
+I had expectations. But I couldn’t fake it. I couldn’t run someone else’s race.
+
+This year wasn’t about doing anything. It was about undoing. Undoing pressure. Undoing lies I’d told myself about what I’m worth. Undoing the version of me that just survived instead of lived. 
+Little by little, in the quiet, I started taking my life back. Journaling through the tears. Praying when I felt like giving up. Showing up for myself when no one else noticed.
+It was ugly. Painful. Lonely. And that’s exactly why it was honest. Because honesty hurts. But honesty frees. Freedom came in realizing I didn’t have to compare. 
+I didn’t have to pretend my story looked like anyone else’s. I didn’t have to rush.
+
+The “lost” time? Not lost. God is digging into me, pulling out the weeds, planting me deeper than I ever imagined. I was learning to breathe. To trust Him. To stop micromanaging my life like I had all the answers.
+If I could scream a message at my past self it would be this: You are not behind. You are being re-rooted. Without God, you are nothing — and with Him, you are becoming.
+
+I’ll stumble. 
+
+I’ll fail. 
+
+My daily rhythms aren’t perfect yet. But I’m done putting myself on trial. Their race isn’t mine. My path is mine. And even in the silence, God’s plan is moving, shaping me. 
+Not in the way I expected, but in the way I need. He's working in the background, even when I can’t see it.
+
+So here’s my promise: no more pressure. No more comparison. Just me, Him, and this messy, unglamorous, heartbreaking, beautiful work of becoming.
+
+`
+  
+  
+  
+    },
   {
     id: 1,
     title: "Mission: Take My Life Back",

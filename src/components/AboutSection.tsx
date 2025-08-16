@@ -8,18 +8,16 @@ const AboutSection = () => {
         
         <div className="prose prose-lg max-w-none">
           <p className="font-lora text-lg leading-relaxed text-muted-foreground mb-6">
-            This is a space for honesty — raw, unfiltered thoughts about faith, 
-            technology, and the messy, beautiful process of growing closer to God 
-            while navigating the digital world as a young developer. Here, debugging code becomes a metaphor 
-            for spiritual healing, and every broken deployment is a reminder that 
-            grace covers our mistakes.
+            ✨ Welcome to my little corner of chaos and clarity. This is where I spill the raw, 
+            unfiltered stuff — faith, tech, and the awkwardly beautiful mess of growing closer to God 
+            while surviving life as a baby developer. Around here, debugging isn’t just for code, 
+            it’s therapy. Every bug I squash feels a little like healing. And those broken deployments? 
+            Just holy reminders that grace still runs in the background, even when I crash.
           </p>
           
           <p className="font-lora text-lg leading-relaxed text-muted-foreground mb-6">
-            Whether you're a developer wrestling with imposter syndrome, a believer 
-            struggling with doubt, navigating heartbreak, or simply trying to stay afloat—this journal is for you. 
-            It’s a quiet space to process emotions, celebrate small victories, ask hard questions, and remember that we’re not alone in any of it. 
-            Rooted in faith but open to the full human experience, this is a space for honesty, healing, and grace—wherever you’re at on the journey.
+            For developers fighting imposter syndrome, believers wrestling doubt, or anyone just surviving life’s chaos — this journal is your ER. 
+            A place for messy truths, tiny wins, hard questions, and a little grace that shows up whether you’re ready or not.
           </p>
           
           <div className="flex items-center justify-center gap-3 mt-8 text-primary">

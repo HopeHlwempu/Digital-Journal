@@ -19,7 +19,7 @@ const HeroSection = () => {
           Starr Journals
         </h1>
         <p className="font-lora text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed max-w-2xl mx-auto">
-          A journal of faith, feeling, and finding God in code
+          A creative outlet for faith, writing, and the beautiful mess of life.
         </p>
         <div className="flex items-center justify-center gap-2 text-muted-foreground">
           <div className="w-12 h-px bg-primary/40"></div>

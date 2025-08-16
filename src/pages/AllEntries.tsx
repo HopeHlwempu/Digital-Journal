@@ -5,8 +5,15 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
 
-       {
+         {
     id: 1,
+    title: "The Year I Fell Behind",
+    date: "16 August, 2025",
+    excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked...."
+  },
+
+  {
+    id: 2,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
@@ -14,7 +21,7 @@ const blogPosts = [
   },
 
      {
-    id: 2,
+    id: 3,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
@@ -22,7 +29,7 @@ const blogPosts = [
   },
 
    {
-    id: 2,
+    id: 4,
     title: "Waking Up to the Weight of Authenticity",
     date: "July 25, 2025",
     excerpt: "It was hard getting out of bed today, not for the reasons you might think. It was very odd for me to wake up at...",
@@ -31,35 +38,35 @@ const blogPosts = [
  
  
   {
-    id: 3,
+    id: 5,
     title: "God in the 404s",
     date: "July 20, 2025",
     excerpt: "Today was one of those days where it felt like nothing wanted to work — not my code, not my focus, not my heart. I opened my laptop like...",
     category: "Faith & Code"
   },
   {
-    id: 4,
+    id: 6,
     title: "Debugging My Heart",
     date: "July 15, 2025",
     excerpt: "It’s wild how one random conversation — or lack of one — can undo you. Today started normal. Coffee, my morning walk, to-do list. But something small threw me off...",
     category: "Personal Growth"
   },
   {
-    id: 5,
+    id: 7,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
     category: "Spiritual Reflection"
   },
   {
-    id: 6,
+    id: 8,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
     category: "Mental Health"
   },
   {
-    id: 7,
+    id: 8,
     title: "Version Control for the Soul",
     date: "June 30, 2025",
     excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent — like being loved unconditionally...",

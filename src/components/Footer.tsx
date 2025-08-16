@@ -63,7 +63,7 @@ const Footer = () => {
         {/* Bible Verse */}
         <div className="text-center">
           <p className="font-lora text-xs text-muted-foreground/70 italic">
-            "The Lord your God is with you, the Mighty Warrior who saves." — Zephaniah 3:17
+            "If God is for us, who can be against us?" — Romans 8:31
           </p>
         </div>
       </div>
