@@ -15,23 +15,23 @@ const pictures = [
   {
     id: 2,
     src: picture2,
-    caption: "My dream library",
-    date: "9 August 2025",
-    reflection: "A glimpse of my future sanctuary",
+    caption: "Home cell treats",
+    date: "14 August 2025",
+    reflection: "Food shared, hearts connected",
   },
   {
     id: 3,
     src: picture3,
-    caption: "Favourite fit ",
-    date: "21 September 2024",
-    reflection: "Finding peace in His word",
+    caption: "My princess",
+    date: "16 December 2023",
+    reflection: "My little sunshine, my joy",
   },
 ];
 
 const currentSong = {
-  title: "ROLE MODEL",
-  artist: "Brent Faiyaz",
-  mood: "Happy"
+  title: "THE GREATEST",
+  artist: "Billie Eilish",
+  mood: "Self-aware",
 };
 
 const PicturesSection = () => {

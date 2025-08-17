@@ -1,32 +1,32 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "Grateful - Reflective",
+    content: "confused + determined",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "2 Peter 1:3",
+    content: "Hebrews 13:8 - Jesus Christ is the same yesterday, today, and forever.",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "MR. MEDIA by Tyla",
+    content: "Bad Religion by Frank Ocean",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "Clairity + Peace",
+    content: "progress + redemption",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
     label: "Today's Prayer",
-    content: "Lord, I ask for Your strength and guidance in every step I take today.",
+    content: "Lord, I ask for clarity and may i forever trust You.",
     color: "bg-primary/5 border-primary/20 text-foreground"
   },
   {
     label: "Learning",
-    content: "Appreciating solitude and the beauty of stillness",
+    content: "discipline + patience",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];

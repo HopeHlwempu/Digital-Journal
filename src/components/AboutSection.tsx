@@ -8,7 +8,7 @@ const AboutSection = () => {
         
         <div className="prose prose-lg max-w-none">
           <p className="font-lora text-lg leading-relaxed text-muted-foreground mb-6">
-            ✨ Welcome to my little corner of chaos and clarity. This is where I spill the raw, 
+            Welcome to my little corner of chaos and clarity. This is where I spill the raw, 
             unfiltered stuff — faith, tech, and the awkwardly beautiful mess of growing closer to God 
             while surviving life as a baby developer. Around here, debugging isn’t just for code, 
             it’s therapy. Every bug I squash feels a little like healing. And those broken deployments? 

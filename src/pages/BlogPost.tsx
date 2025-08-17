@@ -4,10 +4,73 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
   
+
+    {
+    id: 1,
+    title: "Running From Myself",
+    date: "August 17, 2025",
+    excerpt: "There’s too much rattling around in my head to break it into two entries, so here’s the messy, slightly over-caffeinated brain dump....",
+    content: `There’s too much rattling around in my head to break it into two entries, so here’s the messy, slightly over-caffeinated brain dump.
+
+   A few days ago, I made a YouTube video called “The Truth About a Gap Year + Taking My Life Back.”
+   Ironically, I didn’t expect to actually live out anything I said in it. Normally people (me included) curate this version of life for the internet — like a glossy movie trailer 
+   for a film that never got made. But for once, the script stuck. I tried running, reading, and exercising. 
+   Out of the three, running won. Which is laughable, because if there was one thing I used to despise more than cardio, it was running.
+
+   Back in my competitive netball days, I’d dodge running drills like they were gunfire. Now? Somehow I love it. 
+   The rhythm of my feet, the cold air biting my face, even the obnoxiously loud cars rushing past — it’s oddly therapeutic. It’s like my body and mind agreed to stop fighting each other for once. 
+   Every run, my pace improves, my distance stretches, and even on days where I feel like I’m crawling, it’s rewarding.
+
+   I never thought I’d be the type to say this, but by the end of the week, I’m gunning for a 5K with a 7-minute pace. 
+   Running is teaching me something: progress doesn’t always look like fireworks — it often feels like lungs on fire. Running seems like the only thing that makes me feel okay. 
+
+    <h2 className="text-2xl font-playfair italic mt-8">Part Two</h2>
+
+      This morning I woke up at 5 a.m. (yes, voluntarily) for a run, and then headed to church. For the first time in a long time, 
+      I wasn’t just absorbing information like a bored student cramming for finals — I was receiving it. God was speaking, and I was listening.
+
+      Last night, I watched a sermon called "The Idol Called Anxiety". The pastor unpacked Exodus 32:1 — the Israelites panicking because Moses was gone too long, 
+      and Aaron (unfaithful ahh) caving by melting down gold into gods. 
+
+      But it wasn’t just history; it was a mirror, i had to look into. He said:
+
+  - “Anxiety doesn’t prevent disaster — it manufactures it.”
+
+  - “Anxiety grows strongest in the spaces God leaves intentionally silent.”
+
+  - “Impatience gives anxiety permission to rewrite your story.”
+
+  - “Anxiety makes you forget the miracles faster than you remember the pain.”
+
+That hit me hard. Because lately, my life feels like Exhibit A of all of the above. I know Hebrews 13:8 says Jesus is the same yesterday, today, and forever — 
+but my anxiety tries to convince me He’s changing His mind about me every five minutes. Running might be saving my body, 
+but God is still in the business of saving my soul from its own self-sabotage.
+
+So, after church, I did the most holy thing one can do on a Sunday: I napped. Woke up groggy but peaceful — until I checked my phone.
+Name: Jane Doe (name hidden, because I don't want to get in trouble).
+
+I honestly don’t even know how this turned into a thing. It started off so simple: a phone. I asked for it so my sister could use it a while ago. So when I got a message about it, I thought, okay, easy, 
+I’ll just clarify. I even made sure to be polite. I said, hey, (John) hasn’t reached out to me, only to (Jayla), because she’s the one using the phone now. 
+It’s her responsibility, not mine. Seemed straightforward, right?
+
+But then suddenly my “tone” became the issue. Not the actual phone. Not the actual problem. Just the way my words were read. 
+Like my attempt to explain somehow turned into me being the disrespectful one, when literally all I was doing was pointing them in the right direction. 
+And now it feels like I’ve been pulled back into this thing I’m not even part of anymore, simply because I was the first person to ask.
+
+I stared at my screen, baffled. My “nap afterglow” evaporated. And because I’m me, I cried. 
+(I cry through every emotion. Angry? Sad? cry. Happy? cry. Hungry? cry.) But this time, the tears were confusion more than anything. 
+I wasn’t disrespectful, right? I just… explained. Yet here I am, second-guessing myself—again.
+
+It’s exhausting, this loop of self-doubt. These tiny moments keep chipping away, making me question every word, every tone, every choice. 
+Anxiety manufacturing disasters I didn’t order. Exactly what that sermon warned about.
+`
+
+    },
+
     {
     id: 1,
     title: "The Year I Fell Behind",
-    date: "August 18, 2025",
+    date: "August 16, 2025",
     excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
     content: `Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked. Not in a cute, “I found myself” kind of way. 
     Not in a “look at me, eating avocado toast in Bali” way. Just… me. Messy, stuck, sometimes utterly miserable. It tore me down before it ever tried to build me up.
@@ -38,7 +101,7 @@ So here’s my promise: no more pressure. No more comparison. Just me, Him, and 
   
     },
   {
-    id: 1,
+    id: 2,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
@@ -86,7 +149,7 @@ So yeah. I tried to take my life back today. Tried. Maybe I’ll try again tomor
 
   },
   {
-    id: 2,
+    id: 3,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
@@ -131,7 +194,7 @@ And I’m with God`
 
   },
   {
-    id: 3,
+    id: 4,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
@@ -155,7 +218,7 @@ And start integrating her into who I’m becoming.
 So yeah — maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty.`
   },
   {
-    id: 4,
+    id: 5,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
@@ -195,7 +258,7 @@ Sometimes the most courageous thing we can do is add a break statement to our ru
 Tonight, I'm choosing to break out of the loop. To let my worried mind finally rest. Because the One who never sleeps is already handling whatever I'm afraid of, and His love is the most reliable exit condition I know.`
   },
   {
-    id: 5,
+    id: 6,
     title: "Version Control for the Soul",
     date: "October 29, 2024",
     excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally...",
