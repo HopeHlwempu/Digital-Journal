@@ -6,7 +6,7 @@ const moodItems = [
   },
   {
     label: "Verse of the Week",
-    content: "Hebrews 13:8 - Jesus Christ is the same yesterday, today, and forever.",
+    content: "Hebrews 13:8",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
