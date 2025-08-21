@@ -8,11 +8,10 @@ const AboutSection = () => {
         
         <div className="prose prose-lg max-w-none">
           <p className="font-lora text-lg leading-relaxed text-muted-foreground mb-6">
-            Welcome to my little corner of chaos and clarity. This is where I spill the raw, 
-            unfiltered stuff — faith, tech, and the awkwardly beautiful mess of growing closer to God 
-            while surviving life as a baby developer. Around here, debugging isn’t just for code, 
-            it’s therapy. Every bug I squash feels a little like healing. And those broken deployments? 
-            Just holy reminders that grace still runs in the background, even when I crash.
+        Welcome to my little corner of chaos and clarity. This is where I pour out the raw, unfiltered stuff — faith, struggles, and the awkwardly beautiful mess of walking with Jesus. 
+        While surviving life as a baby developer, I’ve learned that debugging isn’t just for code, it’s for the soul. 
+        Every bug I squash reminds me of the Spirit refining me. 
+        And those broken deployments? Just holy reminders that God’s grace is still running in the background, even when I crash.
           </p>
           
           <p className="font-lora text-lg leading-relaxed text-muted-foreground mb-6">

@@ -15,23 +15,23 @@ const pictures = [
   {
     id: 2,
     src: picture2,
-    caption: "Home cell treats",
-    date: "14 August 2025",
-    reflection: "Food shared, hearts connected",
+    caption: "My dream home library",
+    date: "9 August 2025",
+    reflection: "Interior design goals ✦ where every book is a friend",
   },
   {
     id: 3,
     src: picture3,
-    caption: "My princess",
-    date: "16 December 2023",
-    reflection: "My little sunshine, my joy",
+    caption: "Mikayla! God's sunshine",
+    date: "19 August 2025",
+    reflection: "A bundle of joy and laughter, showing me how Kingdom friendship looks like",
   },
 ];
 
 const currentSong = {
-  title: "THE GREATEST",
-  artist: "Billie Eilish",
-  mood: "Self-aware",
+  title: "Safe Place",
+  artist: "Lauren Milne",
+  mood: "peaceful + reflective",
 };
 
 const PicturesSection = () => {

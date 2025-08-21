@@ -4,49 +4,53 @@ import { Card, CardContent, CardHeader } from "@/components/ui/card";
 
 const blogPosts = [
 
-          {
+         {
     id: 1,
-    title: "Running From Myself",
-    date: "17 August, 2025",
-    excerpt: "There’s too much rattling around in my head to break it into two entries, so here’s the messy, slightly over-caffeinated brain dump....."
+    title: "Misunderstood for the Truth",
+    date: "21 August, 2025",
+    excerpt: "Last night was heavy. I can’t shake the weight of being called “religiously psychotic.” That word...."
   },
 
-          {
+
+         {
     id: 2,
     title: "The Year I Fell Behind",
     date: "16 August, 2025",
-    excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked...."
+    excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
+    category: "Spirtual Reflection"
   },
-        {
+
+  {
     id: 3,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
-    excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of..."
+    excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
+    category: "Personal Growth"
   },
-  {
-    id: 4,
+
+     {
+    id: 5,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
-    excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about..."
+    excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
+    category: "Personal Growth"
   },
-  {
-    id: 5,
-    title: "Refactoring Grace",
-    date: "July 10, 2025",
-    excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and..."
-  },
+
   {
     id: 6,
-    title: "Infinite Loops of Worry",
-    date: "July 5, 2025",
-    excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a..."
+    title: "Refactoring Grace",
+    date: "July 10, 2025",
+    excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
+    category: "Spiritual Reflection"
   },
   {
     id: 7,
-    title: "Version Control for the Soul",
-    date: "June 30, 2025.",
-    excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally..."
-  }
+    title: "Infinite Loops of Worry",
+    date: "July 5, 2025",
+    excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
+    category: "Mental Health"
+  },
+
 ];
 
 const RecentEntries = () => {

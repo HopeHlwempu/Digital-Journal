@@ -7,60 +7,49 @@ const blogPosts = [
 
     {
     id: 1,
-    title: "Running From Myself",
-    date: "August 17, 2025",
-    excerpt: "There’s too much rattling around in my head to break it into two entries, so here’s the messy, slightly over-caffeinated brain dump....",
-    content: `Part one:
+    title: "Misunderstood for the Truth",
+    date: "August 21, 2025",
+    excerpt: "Today was heavy. I can’t shake the weight of being called “religiously psychotic.” That word....",
+    content: `Today was heavy. I can’t shake the weight of being called “religiously psychotic.” That word pierced me deeper than I expected. 
+    It wasn’t just an attack on me — it felt like an attack on God Himself, on everything I believe, everything I live for.
 
-  There’s too much rattling around in my head to break it into two entries, so here’s the messy, slightly over-caffeinated brain dump.
+It all started with a post. I commented affirming that Jesus is the only way. Within minutes, notifications blew up. 
+One friend called that “religious psychosis.” Another said I was disrespectful to other religions. A third accused me of using Jesus as a scapegoat. 
+My heart was to stand for Jesus, not to hurt anyone — but my friends couldn’t see that. By the next day, I was blocked by all of them. 
+But who needs friends when you have Jesus? He never leaves, He never misunderstands, and His love is unwavering.
 
-   A few days ago, I made a YouTube video called “The Truth About a Gap Year + Taking My Life Back.”
-   Ironically, I didn’t expect to actually live out anything I said in it. Normally people (me included) curate this version of life for the internet — like a glossy movie trailer 
-   for a film that never got made. But for once, the script stuck. I tried running, reading, and exercising. 
-   Out of the three, running won. Which is laughable, because if there was one thing I used to despise more than cardio, it was running.
+As all of this unfolded, live, I was so full of rage, anger. Someone called MY FATHER, THE CREATOR OF THE STARS AND OCEANS, “disgusting.” 
+My chest tightened, my mind raced. But instead of reacting or lashing out, I prayed:
 
-   Back in my competitive netball days, I’d dodge running drills like they were gunfire. Now? Somehow I love it. 
-   The rhythm of my feet, the cold air biting my face, even the obnoxiously loud cars rushing past — it’s oddly therapeutic. It’s like my body and mind agreed to stop fighting each other for once. 
-   Every run, my pace improves, my distance stretches, and even on days where I feel like I’m crawling, it’s rewarding.
+“On one hand, I boldly want to step out and defend with passion, but I want to respond or react with love, just as Jesus would. Is it my place to speak up? 
+Is it my responsibility to defend and speak truth? How do I do this the right way? How do I lovingly correct them without straying them further away from You? I have so many questions. 
+I want to approach this like Jesus. Help and guide me, Lord.”
 
-   I never thought I’d be the type to say this, but by the end of the week, I’m gunning for a 5K with a 7-minute pace. 
-   Running is teaching me something: progress doesn’t always look like fireworks — it often feels like lungs on fire. Running seems like the only thing that makes me feel okay. 
+Not long after, before I called my Life Group leader, I was writing notes from Sunday service. 
+Words poured through the Spirit, almost like God was whispering directly to me: 
+“The ministry of Jesus is the ministry of every believer. Teaching, preaching, and healing. Roles in the church are valuable, but they don’t replace the priestly call. 
+We may feel weak, unqualified, or fearful, but God demonstrates His power through us so that His kingdom advances everywhere we go.”
 
-    Part two:
+It hit me. God wanted me to speak up, to lovingly correct, to approach them — even if they didn’t listen — because this is exactly what Jesus would do. 
+We are called to walk in love as Jesus did.
 
-      This morning I woke up at 5 a.m. (yes, voluntarily) for a run, and then headed to church. For the first time in a long time, 
-      I wasn’t just absorbing information like a bored student cramming for finals — I was receiving it. God was speaking, and I was listening.
-      Last night, I watched a sermon called "The Idol Called Anxiety". The pastor unpacked Exodus 32:1 — the Israelites panicking because Moses was gone too long, 
-      and Aaron (unfaithful ahh) caving by melting down gold into gods. 
+I was in panic mode, overwhelmed by the flood of messages, opinions, and judgments. I called my Life Group leader, 
+and she confirmed what my heart was already leaning toward: approach this with love. She said simply, “Tell them, Jesus loves you.”
 
-    But it wasn’t just history; it was a mirror, i had to look into. He said:
-    - “Anxiety doesn’t prevent disaster — it manufactures it.”
-    - “Anxiety grows strongest in the spaces God leaves intentionally silent.”
-    - “Impatience gives anxiety permission to rewrite your story.”
-    - “Anxiety makes you forget the miracles faster than you remember the pain.”
+But it frustrates me. Because my faith — my God - my faith — isn’t psychosis. It’s not insanity. It’s the very reason I’m alive today. 
+It’s what carried me when nothing else made sense. To have that dismissed, reduced to a word meant to belittle and discredit, it hurts. 
+It angers me. It makes me want to scream, “PUT SOME RESPECT HIM”
 
-That hit me hard. Because lately, my life feels like Exhibit A of all of the above. I know Hebrews 13:8 says Jesus is the same yesterday, today, and forever — 
-but my anxiety tries to convince me He’s changing His mind about me every five minutes. Running might be saving my body, 
-but God is still in the business of saving my soul from its own self-sabotage.
+But then there’s this other side of me — the side that hears Jesus’ whisper: “Love them anyway.” 
+And that’s the tension I feel pulled in. I don’t want to ignore the insult. I don’t want to water down the truth. 
+But I also don’t want to give them the satisfaction of rage, or add fuel to their fire.
 
-Part three:
+So I sit here, torn between frustration and love, between defending God’s name and reflecting His character. 
+Maybe that’s what following Jesus has always meant — holding truth in one hand and love in the other, refusing to drop either, even when people spit in your face for it.
 
-So, after church, I did the most holy thing one can do on a Sunday: I napped. Woke up groggy but peaceful — until I checked my phone. For privacy reasons, i'll be using placeholders. Jane Doe, John Doe, and Jayla Doe.
+I know who I belong to. I know who saved me. And even if they call me crazy, delusional, or psychotic — I’d rather be “insane” for Jesus than sane without Him.
 
-I honestly don’t even know how this turned into a thing. It started off so simple: a phone. I asked for it from Jane Doe so Jayla Doe could use it - a while ago. 
-So when I got a message about it, I thought, okay, easy,  I’ll just clarify. I even made sure to be polite. I said, hey, John Doe hasn’t reached out to me, only to Jayla Doe, because she’s the one using the phone now. 
-It’s her responsibility, not mine. Seemed straightforward, right?
-
-But then suddenly my “tone” became the issue. Not the actual phone. Not the actual problem. Just the way my words were read. 
-Like my attempt to explain somehow turned into me being the disrespectful one, when literally all I was doing was pointing them in the right direction. 
-And now it feels like I’ve been pulled back into this thing I’m not even part of anymore, simply because I was the first person to ask.
-
-I stared at my screen, baffled. My “nap afterglow” evaporated. And because I’m me, I cried. 
-(I cry through every emotion. Angry? Sad? cry. Happy? cry. Hungry? cry.) But this time, the tears were confusion more than anything. 
-I wasn’t disrespectful, right? I just… explained. Yet here I am, second-guessing myself — again.
-
-It’s exhausting, this loop of self-doubt. These tiny moments keep chipping away, making me question every word, every tone, every choice. 
-Anxiety manufacturing disasters I didn’t order. Exactly what that sermon warned about.
+Lord, help me to love them anyway. Help me to respond with grace, even when my heart is heavy with hurt.
 `
 
     },
@@ -95,8 +84,6 @@ So here’s my promise: no more pressure. No more comparison. Just me, Him, and 
 
 `
   
-  
-  
     },
   {
     id: 3,
@@ -121,8 +108,8 @@ My mom still doesn’t have a job. The financial weight is slowly flattening eve
 I’ve applied to over 500 jobs, no exaggeration. No responses. No interviews. Nothing that even smells like forward movement. And I have prayed. I’ve cried and prayed and pleaded with God more times than I can count. 
 Still — silence. Or maybe just stillness. I don’t know which is worse. 
 
-I think I’m grieving a version of my life that was supposed to happen by now. A version where I knew what came next. Where I had a plan and enough resources to execute it. Where my mother was okay. 
-Where I wasn’t waking up every day trying to invent meaning for myself like some desperate playwright with writer’s block.
+I think I’m grieving a version of my life that was supposed to happen by now. A version where I knew what came next.
+Where I had a plan and enough resources to execute it. Where my mother was okay. Where I wasn’t waking up every day trying to invent meaning for myself like some desperate playwright with writer’s block.
 
 God is either silent or not listening.
 I’m not sure which is worse. I’ve been trying to take my life back, but it feels like I’m just running in circles.
@@ -166,7 +153,7 @@ It’s about the little things that creep in, like a slow leak in your tire. You
 
 Knowing that even if culture claps for your choices, the Spirit might be grieving. That’s the part no one warns you about — the conviction that hits like a freight train over the “harmless” stuff.
 
-Like… vape. Yes. Freaking vape.
+Like - vape. Yes. Flavour air. I feel stupid even writing that, but here we are. I’m addicted to flavoured air and the illusion of relief.
 
 I feel stupid even writing that, but here we are. I’m addicted to flavoured air and the illusion of relief. It’s expensive, it’s stupid, and worst of all—it’s dishonest. 
 I spent the money my mom gave me for my hair. R400 gone. I’m down to R68. She doesn’t know yet, and I’m already scheming a cover story. 
@@ -198,22 +185,28 @@ And I’m with God`
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
     content: `I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and crying.
 
-    Remembering the things you said—sharp, performative, or desperate—and realizing you can’t go back and revise the version of you someone else still holds in their head.
+    Remembering the things you said — sharp, performative, or desperate—and realizing you can’t go back and revise the version of you someone else still holds in their head.
 
-If life was code, I’d fork my own timeline. Roll back to a cleaner commit. Refactor the parts where I reacted out of fear, insecurity, loneliness. But that’s not how this works. People don’t version control their hearts.
+If life was code, I’d fork my own timeline. Roll back to a cleaner commit. Refactor the parts where I reacted out of fear, insecurity, loneliness. But that’s not how this works. 
+People don’t version control their hearts. So instead, I’ve been trying to practice a kind of grace that feels less like a churchy buzzword and more like survival. 
+A real, unpretty kind of grace. One where I can admit: Yeah, I hurt someone. And yeah, I disappointed myself. And I still deserve space to grow.
 
-So instead, I’ve been trying to practice a kind of grace that feels less like a churchy buzzword and more like survival. A real, unpretty kind of grace. One where I can admit: Yeah, I hurt someone. And yeah, I disappointed myself. And I still deserve space to grow.
+It’s hard though. No one warns you how long shame lingers. You think it’ll be a quick patch, but it worms into everything. 
+Makes you second-guess your tone in texts. Makes you re-read old conversations like they’re crime scenes. Makes you wonder if the best version of you already came and went, and now you’re just scrambling to clean up the emotional debt.
 
-It’s hard though. No one warns you how long shame lingers. You think it’ll be a quick patch, but it worms into everything. Makes you second-guess your tone in texts. Makes you re-read old conversations like they’re crime scenes. Makes you wonder if the best version of you already came and went, and now you’re just scrambling to clean up the emotional debt.
+But grace isn’t neat. It’s not a spiritual Instagram post. It’s looking at the parts of you that caused damage and saying: I see why you acted like that. 
+You were scared. You didn’t know better. You were trying to protect yourself. It’s painful. Unsexy. Necessary.
 
-But grace isn’t neat. It’s not a spiritual Instagram post. It’s looking at the parts of you that caused damage and saying: I see why you acted like that. You were scared. You didn’t know better. You were trying to protect yourself. It’s painful. Unsexy. Necessary.
-
-I’m still learning how to hold space for the girl I used to be. The one who overextended herself just to feel worthy. The one who mistook attention for care. The one who performed stability while quietly unraveling. She did her best. Even if her best caused chaos.
+I’m still learning how to hold space for the girl I used to be. The one who overextended herself just to feel worthy. 
+The one who mistook attention for care. The one who performed stability while quietly unraveling. She did her best. Even if her best caused chaos.
 
 Refactoring grace means I stop trying to delete her.
 And start integrating her into who I’m becoming.
 
-So yeah — maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty.`
+So yeah — maybe I don’t need a rebrand. Maybe I just need to let all versions of me have a seat at the table. Let the code be messy. Let the history exist. 
+Not because I’m proud of it, but because it’s honest. And healing, I think, is rooted in honesty but most importantly - rooted in Christ.
+
+`
   },
   {
     id: 6,
@@ -255,29 +248,7 @@ Sometimes the most courageous thing we can do is add a break statement to our ru
 
 Tonight, I'm choosing to break out of the loop. To let my worried mind finally rest. Because the One who never sleeps is already handling whatever I'm afraid of, and His love is the most reliable exit condition I know.`
   },
-  {
-    id: 7,
-    title: "Version Control for the Soul",
-    date: "October 29, 2024",
-    excerpt: "Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally...",
-    content: `Git taught me about commits and rollbacks, but faith taught me that some changes are meant to be permanent—like being loved unconditionally.
 
-I made a mistake today. The kind that makes you want to git reset -- hard and pretend it never happened. But life doesn't work like version control, and sometimes that's a mercy.
-
-In code, we can always go back to a previous commit when things go wrong. We can cherry-pick the good changes and discard the rest. We can create branches to experiment safely, knowing we can always merge or delete as needed. But in life, every commit is pushed directly to main, and there's no going back.
-
-At first, this terrified me. The permanence of words spoken in anger, decisions made in fear, bridges burned in pride. But lately, I'm starting to see the beauty in life's immutable history.
-
-God doesn't use version control on His love for us. There's no commit history where we can see when He started caring less because of our failures. No rollback feature when we disappoint Him. His love is not a feature that can be reverted; it's the fundamental architecture on which everything else is built.
-
-The mistakes we want to uncommit? God sees them and loves us still. The broken code of our hearts? He doesn't delete it; He refactors it into something beautiful. The merge conflicts between who we are and who we want to be? He resolves them with grace.
-
-I'm learning that spiritual growth isn't about rolling back to some previous version of myself. It's about accepting that every commit in my life's repository has brought me to this moment, where I'm known completely and loved unconditionally.
-
-Tonight, I'm grateful for the mistakes I can't undo, because they've taught me about a love that doesn't need an undo button. Some changes—like being forgiven, like being chosen, like being held by grace—are meant to be permanent.
-
-The best part about God's version control system? Every commit message just says "loved." No matter what changes we make, that never gets overwritten.`
-  }
 ];
 
 const BlogPost = () => {
