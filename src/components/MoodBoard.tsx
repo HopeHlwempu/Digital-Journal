@@ -1,32 +1,32 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "carried but restless",
+    content: "torn but steady",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "Psalm 46:5 – God is within her, she will not fall",
+    content: "Isaiah 41:10 – Fear not, for I am with you",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "All The Stars by Kendrick Lamar & SZA",
+    content: "Therefor I Am by Billie Eilish",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "heaven meeting earth in my everyday",
+    content: "Peace in the storm",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
     label: "Today's Prayer",
-    content: "Jesus, steady my steps and anchor me in truth.",
+    content: "Jesus, quiet my chaos",
     color: "bg-primary/5 border-primary/20 text-foreground"
   },
   {
     label: "Learning",
-    content: "How to obey without hesitation",
+    content: "how to breathe in the storm",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];

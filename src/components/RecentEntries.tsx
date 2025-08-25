@@ -4,16 +4,25 @@ import { Card, CardContent, CardHeader } from "@/components/ui/card";
 
 const blogPosts = [
 
-         {
+           {
     id: 1,
+    title: "Escaping Gravity",
+    date: "25 August, 2025",
+    excerpt: "I ran today. Not because it felt good. Not because I wanted to. I ran because staying still meant my thoughts....",
+    category: "Mental Health"
+  },
+
+         {
+    id: 2,
     title: "Misunderstood for the Truth",
     date: "21 August, 2025",
-    excerpt: "Last night was heavy. I can’t shake the weight of being called “religiously psychotic.” That word...."
+    excerpt: "Last night was heavy. I can’t shake the weight of being called “religiously psychotic.” That word....",
+    category: "Spirtual Reflection"
   },
 
 
          {
-    id: 2,
+    id: 4,
     title: "The Year I Fell Behind",
     date: "16 August, 2025",
     excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
@@ -21,7 +30,7 @@ const blogPosts = [
   },
 
   {
-    id: 3,
+    id: 5,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
@@ -29,7 +38,7 @@ const blogPosts = [
   },
 
      {
-    id: 5,
+    id: 6,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",

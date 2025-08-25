@@ -8,9 +8,9 @@ const pictures = [
   {
     id: 1,
     src: picture1,
-    caption: "Running fit",
-    date: "Friday",
-    reflection: "Putting in the sweat for a healthier me",
+    caption: "Had to have a photoshoot",
+    date: "Sunday",
+    reflection: "Embracing self-love",
   },
   {
     id: 2,
@@ -22,16 +22,16 @@ const pictures = [
   {
     id: 3,
     src: picture3,
-    caption: "Mikayla! God's sunshine",
+    caption: "Mikayla - God's sunshine",
     date: "19 August 2025",
     reflection: "A bundle of joy and laughter, showing me how Kingdom friendship looks like",
   },
 ];
 
 const currentSong = {
-  title: "Safe Place",
-  artist: "Lauren Milne",
-  mood: "peaceful + reflective",
+  title: "MR MEDIA",
+  artist: "yla",
+  mood: "Hopefullness",
 };
 
 const PicturesSection = () => {
