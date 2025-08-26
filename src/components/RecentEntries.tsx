@@ -22,7 +22,7 @@ const blogPosts = [
 
 
          {
-    id: 4,
+    id: 3,
     title: "The Year I Fell Behind",
     date: "16 August, 2025",
     excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
@@ -30,7 +30,7 @@ const blogPosts = [
   },
 
   {
-    id: 5,
+    id: 4,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
@@ -38,7 +38,7 @@ const blogPosts = [
   },
 
      {
-    id: 6,
+    id: 5,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",

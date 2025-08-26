@@ -30,8 +30,8 @@ const pictures = [
 
 const currentSong = {
   title: "MR MEDIA",
-  artist: "yla",
-  mood: "Hopefullness",
+  artist: "Tyla",
+  mood: "Empowered",
 };
 
 const PicturesSection = () => {

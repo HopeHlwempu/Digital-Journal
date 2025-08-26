@@ -3,10 +3,49 @@ import { Button } from "@/components/ui/button";
 import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
-  
 
     {
     id: 1,
+    title: "Escaping Gravity",
+    date: "August 25, 2025",
+    excerpt: "I ran today. Not because it felt good. Not because I wanted to. I ran because staying still meant my thoughts....",
+    content: `I ran today. Not because it felt good. Not because I wanted to. I ran because staying still meant my thoughts. Not because it felt good. 
+  Not because I wanted to. I ran because staying still meant my thoughts would eat me alive. My lungs burned, my legs screamed, but it was worth it — worth every jagged inhale, every heartbeat pounding in my ears like a warning I couldn’t ignore.
+
+I run to outrun my thoughts, the loops that never end. The guilt. The shame. 
+The voices whispering I’m not enough, that I’ve wasted days, weeks, years. Running gives me a rhythm to hide behind, a distraction from the chaos of my own mind, even if just for a little while.
+
+Running is escape. Pure, brutal escape.
+
+I run because I need the pain — the sharp, honest pain of being alive, of surviving my own brain. 
+I run because it’s the only way to feel what I deserve to feel. And yet, I thank God for that. Not in the cliché, coffee-mug quote kind of way — I mean really thank Him. 
+Because He gave me this outlet that doesn’t wreck me or the people around me. I could have been someone who numbs the silence with bottles, pills, hookups, chaos. 
+
+Instead, He gave me running.
+
+And the most exciting part? He runs with me. I feel His presence in the rhythm of my steps, in the wind brushing past my face. 
+I glimpse Him in the quiet between heartbeats, the moment my feet hit the ground, the shallow inhale that never quite calms my mind. But chaos keeps screaming. It steals my focus. 
+I forget the presence I long for. I forget that He is steady, eternal, unyielding. I only remember the pressure of the world, the disappointment I heap on myself, the spiral of fear that won’t stop. 
+I can’t focus on Him when my mind is a storm.
+
+I run, and I feel alive, yes — but it is raw and bitter alive. Not joy. Not peace. Just a pulse. A reminder that I exist. That I hurt. 
+That I am unmoored. And yet, somehow, there is a sliver — faint, fragile — that whispers He is here, even when I am blind to it. 
+
+Running doesn’t fix anything. It doesn’t sort the bills, the gaps, the anxiety, or the loneliness. But it makes the chaos bearable. 
+It makes me feel human and fleetingly untethered from the weight of everything. In those moments, when the pavement hits my feet and the wind pulls at my hair, I am both utterly lost and inexplicably found.
+
+I stop at the end, drenched, exhausted, mind still spinning. The world is still chaotic. 
+My life is still a tangle of failures, anxieties, and unseen pressure. Nothing has changed. 
+And yet, for the briefest fragment of time, I know I am held. Not rescued, not absolved, just… held. 
+And that, right now, is enough to pull me back from letting the storm swallow me whole.
+
+Glory to God, who runs with me.
+`
+
+    },
+
+    {
+    id: 2,
     title: "Misunderstood for the Truth",
     date: "August 21, 2025",
     excerpt: "Today was heavy. I can’t shake the weight of being called “religiously psychotic.” That word....",
@@ -55,7 +94,7 @@ Lord, help me to love them anyway. Help me to respond with grace, even when my h
     },
 
     {
-    id: 2,
+    id: 3,
     title: "The Year I Fell Behind",
     date: "August 16, 2025",
     excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
@@ -86,7 +125,7 @@ So here’s my promise: no more pressure. No more comparison. Just me, Him, and 
   
     },
   {
-    id: 3,
+    id: 4,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
@@ -134,7 +173,7 @@ So yeah. I tried to take my life back today. Tried. Maybe I’ll try again tomor
 
   },
   {
-    id: 4,
+    id: 5,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
@@ -179,7 +218,7 @@ And I’m with God`
 
   },
   {
-    id: 5,
+    id: 6,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
@@ -209,7 +248,7 @@ Not because I’m proud of it, but because it’s honest. And healing, I think, 
 `
   },
   {
-    id: 6,
+    id: 7,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
