@@ -1,6 +1,6 @@
 import picture1 from "@/assets/picture-1.jpeg";
 import picture2 from "@/assets/picture-2.jpeg";
-import picture3 from "@/assets/picture-3.jpeg";
+import picture3 from "@/assets/picture-3.jpg";
 import { Card, CardContent } from "@/components/ui/card";
 import { Heart, Calendar } from "lucide-react";
 
@@ -8,9 +8,9 @@ const pictures = [
   {
     id: 1,
     src: picture1,
-    caption: "Had to have a photoshoot",
-    date: "Sunday",
-    reflection: "Embracing self-love",
+    caption: "Say cheese! 📸",
+    date: "24 August 2025",
+    reflection: "peace",
   },
   {
     id: 2,
@@ -22,16 +22,16 @@ const pictures = [
   {
     id: 3,
     src: picture3,
-    caption: "Mikayla - God's sunshine",
-    date: "19 August 2025",
+    caption: "Running",
+    date: "24 August 2025",
     reflection: "A bundle of joy and laughter, showing me how Kingdom friendship looks like",
   },
 ];
 
 const currentSong = {
-  title: "MR MEDIA",
-  artist: "Tyla",
-  mood: "Empowered",
+  title: "Good Days",
+  artist: "SZA",
+  mood: "Peaceful",
 };
 
 const PicturesSection = () => {

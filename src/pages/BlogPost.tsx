@@ -6,40 +6,37 @@ const blogPosts = [
 
     {
     id: 1,
-    title: "Escaping Gravity",
-    date: "August 25, 2025",
-    excerpt: "I ran today. Not because it felt good. Not because I wanted to. I ran because staying still meant my thoughts....",
-    content: `I ran today. Not because it felt good. Not because I wanted to. I ran because staying still meant my thoughts. Not because it felt good. 
-  Not because I wanted to. I ran because staying still meant my thoughts would eat me alive. My lungs burned, my legs screamed, but it was worth it — worth every jagged inhale, every heartbeat pounding in my ears like a warning I couldn’t ignore.
+    title: "Running through the Fire",
+    date: "1 September, 2025",
+    excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s....",
+    content: `My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s resolved by the end of an episode. 
+    No, this is the “everything that could go wrong, actually went wrong”. 
+    And yet, somehow, I’m not unravelling. I feel this strange, unshakable peace that I can’t quite comprehend. A peace only God could express. 
 
-I run to outrun my thoughts, the loops that never end. The guilt. The shame. 
-The voices whispering I’m not enough, that I’ve wasted days, weeks, years. Running gives me a rhythm to hide behind, a distraction from the chaos of my own mind, even if just for a little while.
+If this exact chaos had landed on me a year ago, I’d be crashing out. Like, maximum crashout. But now? I’m fine. 
+I mean, not perfect, but not pretending — I’m okay. It’s as if I’m standing in the middle of a fire, but there’s a glass bubble around me. 
+I can see the flames licking higher, hear the crackle of things burning down, and I’m untouched. Safe. 
+Which, if you ask me, is the definition of grace — being protected from what should consume you. The Bible does say, “No weapon formed against you shall prosper” – maybe I’m living that scripture out. 
 
-Running is escape. Pure, brutal escape.
+Part of that peace comes from running. I never thought I’d say that — running used to be something I’d only do if someone was chasing me. 
+But now it’s become my therapy. Apart of it being my therapy, it is a sort of punishment. It hurts in a way I find weirdly comforting. 
+Running hurts, but I like that. It’s a pain that feels deserved, a pain I can control, unlike the wreckage life throws my way. 
+And with every step, there’s progress — slow, steady, tangible. It’s the one area where I can see myself moving forward, literally and metaphorically, even if the rest of my life feels stuck in wet cement.
 
-I run because I need the pain — the sharp, honest pain of being alive, of surviving my own brain. 
-I run because it’s the only way to feel what I deserve to feel. And yet, I thank God for that. Not in the cliché, coffee-mug quote kind of way — I mean really thank Him. 
-Because He gave me this outlet that doesn’t wreck me or the people around me. I could have been someone who numbs the silence with bottles, pills, hookups, chaos. 
+Every run feels like a private meeting with God. The wind cuts across my face, and in it, I swear I can feel the Holy Spirit moving through me. 
+For those 30, 40, however-many minutes, I’m not anxious, not lost in my own head — I’m free. For once, my brain shuts up.
 
-Instead, He gave me running.
+The thing about running is it teaches you things about yourself you weren’t ready to know. 
+Like: asthma is real and isn’t just an excuse PE teachers rolled their eyes at. Uphill running is the devil’s invention. 
+And, maybe most importantly, that silence with God doesn’t always need to look like prayer or worship — it can look like pounding feet on pavement, lungs burning, heart racing. 
 
-And the most exciting part? He runs with me. I feel His presence in the rhythm of my steps, in the wind brushing past my face. 
-I glimpse Him in the quiet between heartbeats, the moment my feet hit the ground, the shallow inhale that never quite calms my mind. But chaos keeps screaming. It steals my focus. 
-I forget the presence I long for. I forget that He is steady, eternal, unyielding. I only remember the pressure of the world, the disappointment I heap on myself, the spiral of fear that won’t stop. 
-I can’t focus on Him when my mind is a storm.
+Still, the truth is, I run because I’m afraid of stillness. When I stop moving, I feel the shadows creeping back, my dark passenger tapping my shoulder. 
+Running reassures me that I’m alive, I’m alive, I’m alive, I’M ALIVE – and that I’m not just wasting oxygen by existing. But now I’m at least moving, doing something. 
 
-I run, and I feel alive, yes — but it is raw and bitter alive. Not joy. Not peace. Just a pulse. A reminder that I exist. That I hurt. 
-That I am unmoored. And yet, somehow, there is a sliver — faint, fragile — that whispers He is here, even when I am blind to it. 
+My life is a mess, a shithole actually. But maybe God’s using this mess as training ground — teaching me endurance, not just for running, 
+but for being alive. Teaching me that peace doesn’t mean the fire’s gone. It just means I’m not burning because I’m already safe inside the bubble He created for me.
 
-Running doesn’t fix anything. It doesn’t sort the bills, the gaps, the anxiety, or the loneliness. But it makes the chaos bearable. 
-It makes me feel human and fleetingly untethered from the weight of everything. In those moments, when the pavement hits my feet and the wind pulls at my hair, I am both utterly lost and inexplicably found.
-
-I stop at the end, drenched, exhausted, mind still spinning. The world is still chaotic. 
-My life is still a tangle of failures, anxieties, and unseen pressure. Nothing has changed. 
-And yet, for the briefest fragment of time, I know I am held. Not rescued, not absolved, just… held. 
-And that, right now, is enough to pull me back from letting the storm swallow me whole.
-
-Glory to God, who runs with me.
+The bubble might not last forever, but until it pops — I’ll keep running.
 `
 
     },

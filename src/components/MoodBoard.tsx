@@ -1,32 +1,32 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "torn but steady",
+    content: "steady chaos",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "Isaiah 41:10 – Fear not, for I am with you",
+    content: "Philippians 4:7 – The peace of God, which surpasses all understanding, will guard your hearts and minds in Christ Jesus.",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "Therefor I Am by Billie Eilish",
+    content: "Flaming Hot Cheetos by Clairo",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "Peace in the storm",
+    content: "Running a 10k",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
     label: "Today's Prayer",
-    content: "Jesus, quiet my chaos",
+    content: "Lord, keep me moving when the stillness feels heavy",
     color: "bg-primary/5 border-primary/20 text-foreground"
   },
   {
     label: "Learning",
-    content: "how to breathe in the storm",
+    content: "pain doesn’t always mean I’m losing — sometimes it’s proof I’m alive",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];

@@ -7,10 +7,10 @@ const Footer = () => {
         {/* Quote */}
         <div className="text-center">
           <blockquote className="font-playfair text-2xl md:text-3xl italic text-foreground leading-relaxed mb-2">
-            "I made it look painless. Man, am i the greatest!"
+            "You love so much, you love when love hurts"
           </blockquote>
           <p className="font-lora text-sm text-muted-foreground">
-            — THE GREATEST by Billie Eilish
+            — Real by Kendrick Lamar
           </p>
         </div>
 

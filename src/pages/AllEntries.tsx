@@ -8,9 +8,9 @@ const blogPosts = [
 
            {
     id: 1,
-    title: "Escaping Gravity",
-    date: "25 August, 2025",
-    excerpt: "I ran today. Not because it felt good. Not because I wanted to. I ran because staying still meant my thoughts...."
+    title: "Running Through the Fire",
+    date: "1 September, 2025",
+    excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s...."
   },
 
          {
