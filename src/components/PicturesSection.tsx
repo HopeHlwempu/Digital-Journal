@@ -24,7 +24,7 @@ const pictures = [
     src: picture3,
     caption: "Running",
     date: "24 August 2025",
-    reflection: "A bundle of joy and laughter, showing me how Kingdom friendship looks like",
+    reflection: "My free therapy",
   },
 ];
 
