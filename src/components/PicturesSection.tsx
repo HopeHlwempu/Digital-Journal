@@ -15,23 +15,23 @@ const pictures = [
   {
     id: 2,
     src: picture2,
-    caption: "My dream home library",
-    date: "9 August 2025",
-    reflection: "Interior design goals ✦ where every book is a friend",
+    caption: "Cape Town Sea shells",
+    date: "14 September 2025",
+    reflection: "I miss home",
   },
   {
     id: 3,
     src: picture3,
-    caption: "Running",
-    date: "24 August 2025",
+    caption: "Joe Bart",
+    date: "15 September 2025",
     reflection: "My free therapy",
   },
-];
+];  
 
 const currentSong = {
-  title: "Good Days",
-  artist: "SZA",
-  mood: "Peaceful",
+  title: "Like Him",
+  artist: "Tyler, The Creator",
+  mood: "Reflecting",
 };
 
 const PicturesSection = () => {

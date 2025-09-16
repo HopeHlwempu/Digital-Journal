@@ -1,22 +1,22 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "steady chaos",
+    content: "Grateful",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "Philippians 4:7 – The peace of God, which surpasses all understanding, will guard your hearts and minds in Christ Jesus.",
+    content: "Philipians 4:9 - And my God will meet all your needs...",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "Flaming Hot Cheetos by Clairo",
+    content: "Back on 74 by Jungle",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "Running a 10k",
+    content: "Working wifi",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
