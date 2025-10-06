@@ -10,28 +10,28 @@ const pictures = [
     src: picture1,
     caption: "Say cheese! 📸",
     date: "24 August 2025",
-    reflection: "peace",
+    reflection: "They say a picture is worth a thousand words",
   },
   {
     id: 2,
     src: picture2,
-    caption: "Cape Town Sea shells",
-    date: "14 September 2025",
-    reflection: "I miss home",
+    caption: "Nala and Simba",
+    date: "15 September 2025",
+    reflection: "I need cats in my life",
   },
   {
     id: 3,
     src: picture3,
-    caption: "Joe Bart",
-    date: "15 September 2025",
-    reflection: "My free therapy",
+    caption: "Traditional Church",
+    date: "5 October 2025",
+    reflection: "Going back to my roots",
   },
 ];  
 
 const currentSong = {
-  title: "Like Him",
-  artist: "Tyler, The Creator",
-  mood: "Reflecting",
+  title: "Everything I wanted",
+  artist: "Billie Eilish",
+  mood: "longing for control",
 };
 
 const PicturesSection = () => {

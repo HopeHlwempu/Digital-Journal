@@ -4,8 +4,50 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
 
-    {
+
+      {
     id: 1,
+    title: "Too soon, Too Real",
+    date: "6 October, 2025",
+    excerpt: "I think today it all finally hit me. Not the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but....",
+    content: `I think today it all finally hit me. Not the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but 
+the kind that sits heavy in your chest and whispers, “You’re on your own now.”
+
+For so long, I’ve known this day would come. The day I’d have to start living for myself, working for myself, being accountable for the direction of my own life. But knowing it and feeling it are two different things.
+I grew up with things handed to me on a silver platter, and I can admit that now. I knew how to play the role of an adult because of circumstances — my mom’s drinking forced me to grow up fast — but even then, I had safety. 
+School. Structure. An allowance. The illusion of stability.
+
+Now? 
+
+It’s different. My future feels tangible. Like it’s not some distant “one day,” it’s right here, breathing down my neck, waiting for me to make choices that matter.
+
+And I’m scared.
+
+I’m scared because I’m watching the world change faster than I can prepare for. The future of Software Engineering — my entire field — is shifting under my feet. 
+AI can already code, debug, design, and analyze. It’s like the thing I’m training to be… already exists, just smarter and faster. It makes me wonder: am I working toward a vanishing point?
+
+I mean, I don’t want to spend the next four years chasing a qualification that could become obsolete. I want to talk about this — to people who get it, who see the industry from the inside. Not out of pessimism, but because I care about where I’m heading. I want direction and not necessarily comfort.
+
+Then there’s my home life, ugh.
+Not the deep, painful parts that would normally share here — but the practical ones. I need a job. Not just because I want independence, even though i do, but because I have to survive. 
+I’ve applied to so many positions since February — tech, retail, waitering — and I’ve heard nothing back. Every “Thank you for your application” email feels like a reminder that effort doesn’t always equal outcome.
+
+I just want a chance.
+
+And yet, somehow, these two things — my fear about the future and my need for stability right now — are tied together. They’re both about security. Control. The hope that I’m not running in circles.
+
+My meeting today made everything feel so real.
+Luna and Sol — mentors of mine — asked the hard questions. The ones I’ve been avoiding.
+
+All of this is just terrifying. But maybe that’s what faith is for — walking into the unknown, trembling, but trusting that I’m still being led.
+
+
+House once said, “If you’re scared, it means you still have something worth living for.” Maybe that’s the only reassurance I need tonight.
+`
+
+      },    
+{
+    id: 2,
     title: "Running through the Fire",
     date: "1 September, 2025",
     excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s....",
@@ -42,7 +84,7 @@ The bubble might not last forever, but until it pops — I’ll keep running.
     },
 
     {
-    id: 2,
+    id: 3,
     title: "Misunderstood for the Truth",
     date: "August 21, 2025",
     excerpt: "Today was heavy. I can’t shake the weight of being called “religiously psychotic.” That word....",
@@ -91,7 +133,7 @@ Lord, help me to love them anyway. Help me to respond with grace, even when my h
     },
 
     {
-    id: 3,
+    id: 4,
     title: "The Year I Fell Behind",
     date: "August 16, 2025",
     excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
@@ -122,7 +164,7 @@ So here’s my promise: no more pressure. No more comparison. Just me, Him, and 
   
     },
   {
-    id: 4,
+    id: 5,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
@@ -170,7 +212,7 @@ So yeah. I tried to take my life back today. Tried. Maybe I’ll try again tomor
 
   },
   {
-    id: 5,
+    id: 6,
     title: "Flavoured Air & Other Demons",
     date: "July 28, 2025",
     excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
@@ -215,7 +257,7 @@ And I’m with God`
 
   },
   {
-    id: 6,
+    id: 7,
     title: "Refactoring Grace",
     date: "July 10, 2025",
     excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
@@ -245,7 +287,7 @@ Not because I’m proud of it, but because it’s honest. And healing, I think, 
 `
   },
   {
-    id: 7,
+    id: 8,
     title: "Infinite Loops of Worry",
     date: "July 5, 2025",
     excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",

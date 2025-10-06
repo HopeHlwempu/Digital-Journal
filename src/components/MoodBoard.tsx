@@ -1,22 +1,22 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "Grateful",
+    content: "overwhelemed",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "Philipians 4:9 - And my God will meet all your needs...",
+    content: "When I am afraid, I put my trust in You.” – Psalm 56:3",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "Back on 74 by Jungle",
+    content: "Heavy by The Marias",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "Working wifi",
+    content: "Certainty",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
@@ -26,7 +26,7 @@ const moodItems = [
   },
   {
     label: "Learning",
-    content: "pain doesn’t always mean I’m losing — sometimes it’s proof I’m alive",
+    content: "God’s not punishing me",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];
