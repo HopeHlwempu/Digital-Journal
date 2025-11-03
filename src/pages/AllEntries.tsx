@@ -6,68 +6,36 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 const blogPosts = [
 
 
-
              {
     id: 1,
+    title: "Hollow",
+    date: "3 November, 2025",
+    excerpt: "You ever notice how life doesn’t stop when you’re miserable?..."
+  },
+
+
+
+             {
+    id: 2,
     title: "Too soon, Too Real",
     date: "6 October, 2025",
     excerpt: "I think today it all finally hit me. Not the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but...."
   },
 
            {
-    id: 2,
+    id: 3,
     title: "Running Through the Fire",
     date: "1 September, 2025",
     excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s...."
   },
 
-         {
-    id: 3,
-    title: "Misunderstood for the Truth",
-    date: "21 August, 2025",
-    excerpt: "Last night was heavy. I can’t shake the weight of being called “religiously psychotic.” That word...."
-  },
-
-
-         {
-    id: 4,
-    title: "The Year I Fell Behind",
-    date: "16 August, 2025",
-    excerpt: "Today I finally said it out loud, the thing that’s been gnawing at me for months: my gap year? It sucked....",
-    category: "Spirtual Reflection"
-  },
-
   {
-    id: 5,
+    id: 4,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
     category: "Personal Growth"
   },
-
-     {
-    id: 6,
-    title: "Flavoured Air & Other Demons",
-    date: "July 28, 2025",
-    excerpt: "Nobody really talks about how gritty it is to be a young Christian. I’m not talking about...",
-    category: "Personal Growth"
-  },
-
-  {
-    id: 7,
-    title: "Refactoring Grace",
-    date: "July 10, 2025",
-    excerpt: "I’ve been thinking about how messy it is to forgive yourself when there’s no dramatic apology scene. No violin swell. Just you, sitting with the memory of who you were and...",
-    category: "Spiritual Reflection"
-  },
-  {
-    id: 8,
-    title: "Infinite Loops of Worry",
-    date: "July 5, 2025",
-    excerpt: "Caught in a recursive spiral of anxiety again. Sometimes I feel like my brain is stuck in a poorly written while loop — endlessly running the same worries, over and over, until I’m dizzy and exhausted. It’s like a...",
-    category: "Mental Health"
-  },
-
 ];
 
 const categoryColors = {

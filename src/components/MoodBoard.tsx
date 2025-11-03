@@ -6,17 +6,17 @@ const moodItems = [
   },
   {
     label: "Verse of the Week",
-    content: "When I am afraid, I put my trust in You.” – Psalm 56:3",
+    content: "“Yet this I call to mind and therefore I have hope” - Lamentations 3:21",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "Heavy by The Marias",
+    content: "My Future by Billie Eilish",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "Certainty",
+    content: "Extinction",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
@@ -26,7 +26,7 @@ const moodItems = [
   },
   {
     label: "Learning",
-    content: "God’s not punishing me",
+    content: "Faith isn’t always a flame.",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];
