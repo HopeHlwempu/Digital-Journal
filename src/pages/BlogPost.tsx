@@ -12,29 +12,37 @@ const blogPosts = [
     excerpt: "You ever notice how life doesn’t stop when you’re miserable?...",
     content: `You ever notice how life doesn’t stop when you’re miserable?
 People still laugh too loud, the sun still rises with intention. Nothing would really change if I disappeared. The world’s pretty good at pretending to care until the body’s cold.
+
+
 I’m not suicidal, okay? I’d never do it, not again — not because I’m scared of hurting people - i don’t care anymore, but because I want to prove myself wrong. 
 I want to prove that my life will amount to something one day. I don’t have "hope" right now, but I am waiting for my spark to come back. 
  
-I think about Lamentations 3 — how Jeremiah went back to God even in his anger, almost through muscle memory - a reflex. He knew God’s mercy and love and kindness, even when he couldn’t feel them. 
+
+I think about Lamentations 3 — how Jeremiah went back to God even in his anger, almost through muscle memory - a reflex. 
+He knew God’s mercy and love and kindness, even when he couldn’t feel them. 
 I’m praying that same instinct finds me too. But I can’t just lie in bed waiting for that feeling to return, can I? 
 The truth is, I feel like I have no purpose. Nothing excites me anymore. I don’t even want to code, because what if it leads nowhere? 
 That was the only thing that used to give me some sense of direction. 
  
+
 I feel sick. I’m so deeply, endlessly tired. I don’t even know what I’m holding onto anymore — maybe it’s just that same muscle memory Jeremiah had. 
 The kind that keeps you turning back to God even when you can’t feel Him. Maybe that’s the only thing keeping me from disappearing completely. 
 
+
 But I’m tired. So tired. 
+
 
 At the same time, I am so angry with God. If God is real, He needs to apologize to me. What kind of God builds someone this breakable and calls it love?
 What could I have possibly done so wrong to deserve a life like this? I’ve tried — really tried — to not let it consume me this badly, but there’s absolutely nothing that keeps me… okay. 
 Everything that used to ground me feels gone. The things I once turned to for comfort now feel hollow. 
 
+
 I talk to God, and it feels like I’m just speaking into a void. 
+
 
 The weight of being alive when I don’t even know why I’m still trying. It feels like i don’t even have to be here. 
 I don’t want to kill myself, i just don’t want to exist. I wish i never existed. I wish i was just a tiny atom in the universe, a sunset, a raindrop, a leaf blowing, a grain of sand. 
 Anything else that isn’t breathing. Something that doesn’t have to survive this. 
- 
 `
 
       },
