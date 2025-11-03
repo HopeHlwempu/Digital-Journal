@@ -29,9 +29,9 @@ const pictures = [
 ];  
 
 const currentSong = {
-  title: "Everything I wanted",
+  title: "TV",
   artist: "Billie Eilish",
-  mood: "longing for control",
+  mood: "detached & tired",
 };
 
 const PicturesSection = () => {
