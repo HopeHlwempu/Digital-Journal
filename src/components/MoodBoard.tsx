@@ -1,32 +1,32 @@
 const moodItems = [
   {
     label: "Current Mood",
-    content: "overwhelemed",
+    content: "reflective",
     color: "bg-primary/10 border-primary/30 text-primary"
   },
   {
     label: "Verse of the Week",
-    content: "“Yet this I call to mind and therefore I have hope” - Lamentations 3:21",
+    content: "“The Lord is close to the brokenhearted.” – Psalm 34:18",
     color: "bg-secondary/20 border-secondary/40 text-secondary-foreground"
   },
   {
     label: "Currently Listening",
-    content: "My Future by Billie Eilish",
+    content: "DEAD MAN WALKING by Brent Faiyaz",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {
     label: "Dreaming of",
-    content: "Extinction",
+    content: "Stability",
     color: "bg-muted border-muted-foreground/20 text-muted-foreground"
   },
   {
     label: "Today's Prayer",
-    content: "Lord, keep me moving when the stillness feels heavy",
+    content: "God, meet me in the quiet and help me keep going without hardening my heart",
     color: "bg-primary/5 border-primary/20 text-foreground"
   },
   {
     label: "Learning",
-    content: "Faith isn’t always a flame.",
+    content: "Faith can be quiet and still be real.",
     color: "bg-secondary/15 border-secondary/30 text-secondary-foreground"
   }
 ];

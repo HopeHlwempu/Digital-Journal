@@ -7,6 +7,53 @@ const blogPosts = [
 
       {
     id: 1,
+    title: "Where I Am",
+    date: "4 January, 2026",
+    excerpt: "In 2025, there was a lot of learning how to sit with myself without needing to fix everything....",
+    content: `In 2025, I had to learn how to sit with myself without needing to fix everything. That felt unnatural. I’ve spent most of my life believing that pain should be solved immediately — prayed away, reasoned through, improved upon. 
+    This year forced me to stay still. To feel things without rushing them toward resolution. I didn’t always do that well, but I tried.
+
+My faith was tested and stretched in ways I didn’t expect. I’m still struggling — not because I stopped believing, but because belief became heavier. 
+Questions lingered. Silence felt louder. Obedience felt exhausting at times, and trust felt fragile. I didn’t walk away, but I didn’t feel steady either. I’m still standing in that tension.
+
+I outgrew many spaces that once felt familiar. Places and people that used to feel like home no longer fit who I was becoming. Letting go was quiet and lonely. 
+I had to choose honesty over comfort, even when it cost me connection and belonging. Staying would’ve been easier. Shrinking would’ve been easier. But I couldn’t pretend anymore.
+
+Grief played the biggest role in 2025. I lost my home of over ten years — a place tied to safety and a version of life I thought would last longer. 
+Friends left my life, some slowly, some suddenly, leaving behind unanswered questions and an ache I didn’t know what to do with. 
+The grief wasn’t always loud. Sometimes it was numbness. Sometimes anger. Sometimes a deep sadness with no clear trigger.
+
+There were glimpses of joy throughout the year, though. Seeing my long-distance best friend reminded me that love can survive time and distance. 
+There were moments of laughter that surprised me, moments where life felt light again — even briefly. Those moments mattered.
+
+And then there was the exhaustion. A deep tiredness — not just of situations, but of people, expectations, explanations, and constantly having to be “okay.” 
+I was tired of being strong, tired of adapting, tired of carrying hope when it kept slipping through my fingers. It wasn’t bitterness — it was depletion.
+
+2025 stripped a lot away. It didn’t give me clarity or neat conclusions. What it did give me was honesty — about my limits, my grief, my faith, and myself. 
+
+As painful as it was, this year taught me where my edges are. It showed me what I can no longer carry, what I can no longer excuse, and what I can no longer abandon in myself just to keep the peace. 
+I learned that endurance without nourishment turns into resentment, and faith without rest turns into performance. Neither of those are sustainable.
+
+I’m learning that grief doesn’t mean I failed to trust God. Sometimes it means I loved deeply. Losing my home, losing people, losing versions of life I thought were secure forced me to confront how much I tie safety to stability. 
+When stability disappeared, I felt exposed — spiritually, emotionally, practically. I’m still learning how to let God be my anchor instead of my backup plan.
+
+I also learned that loneliness can exist even when you’re surrounded by people. Some of the hardest moments this year weren’t spent alone, but unseen. 
+There’s a specific kind of ache that comes from being misunderstood or overlooked while still showing up fully. I don’t have answers for that yet. I’m just naming it.
+
+Despite everything, I’m grateful — not in a forced way, but in a quiet, honest one. I’m grateful for the people who stayed. For conversations that felt safe. For moments where laughter broke through the heaviness. 
+For the strength I didn’t realize I had until I had no choice but to use it. For God’s presence, even when it felt distant, because somehow I’m still here.
+
+As I step into this new year, I’m not making grand promises. I’m choosing softness where I used to choose survival. I’m choosing rest without guilt. I’m choosing truth, even when it makes things awkward or uncomfortable. 
+I want to live slower, pray more honestly, and stop punishing myself for not being “over it” yet.
+
+I don’t know what this next season holds. I just know I’m entering it changed — more aware, more tender, and more committed to becoming whole rather than impressive.
+
+This is where I am. And for now, that’s enough.
+`
+      },
+
+      {
+    id: 2,
     title: "Hollow",
     date: "3 November, 2025",
     excerpt: "You ever notice how life doesn’t stop when you’re miserable?...",
@@ -47,7 +94,7 @@ Anything else that isn’t breathing. Something that doesn’t have to survive t
 
       },
       {
-    id: 2,
+    id: 3,
     title: "Too soon, Too Real",
     date: "6 October, 2025",
     excerpt: "I think today it all finally hit me. Not the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but....",
@@ -88,7 +135,7 @@ House once said, “If you’re scared, it means you still have something worth 
 
       },    
 {
-    id: 3,
+    id: 4,
     title: "Running through the Fire",
     date: "1 September, 2025",
     excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s....",
@@ -125,7 +172,7 @@ The bubble might not last forever, but until it pops — I’ll keep running.
     },
 
   {
-    id: 4,
+    id: 5,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",

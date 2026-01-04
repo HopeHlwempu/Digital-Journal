@@ -8,30 +8,30 @@ const pictures = [
   {
     id: 1,
     src: picture1,
-    caption: "Say cheese! 📸",
-    date: "24 August 2025",
-    reflection: "They say a picture is worth a thousand words",
+    caption: "Anique and Me",
+    date: "2 January 2026",
+    reflection: "Love this girl to bits",
   },
   {
     id: 2,
     src: picture2,
-    caption: "Nala and Simba",
-    date: "15 September 2025",
-    reflection: "I need cats in my life",
+    caption: "Late Night drives",
+    date: "15 November 2025",
+    reflection: "Listening to 'CHIHIRO' on the road",
   },
   {
     id: 3,
     src: picture3,
-    caption: "Traditional Church",
-    date: "5 October 2025",
-    reflection: "Going back to my roots",
+    caption: "Felipe and a stray dog",
+    date: "3 January 2026",
+    reflection: "Took a walk with Felipe and found this little guy",
   },
 ];  
 
 const currentSong = {
-  title: "TV",
-  artist: "Billie Eilish",
-  mood: "detached & tired",
+  title: "Family Ties",
+  artist: "Kendrick Lamar ft. Baby Keem",
+  mood: "hype",
 };
 
 const PicturesSection = () => {

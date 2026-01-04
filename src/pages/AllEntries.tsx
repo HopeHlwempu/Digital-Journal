@@ -5,32 +5,39 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
 
-
-             {
+               {
     id: 1,
-    title: "Hollow",
-    date: "3 November, 2025",
-    excerpt: "You ever notice how life doesn’t stop when you’re miserable?..."
+    title: "Where I Am",
+    date: "4 January, 2026",
+    excerpt: "In 2025, there was a lot of learning how to sit with myself without needing to fix everything....",
+    category: "Mental Health"
   },
-
-
 
              {
     id: 2,
-    title: "Too soon, Too Real",
-    date: "6 October, 2025",
-    excerpt: "I think today it all finally hit me. Not the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but...."
+    title: "Hollow",
+    date: "3 November, 2025",
+    excerpt: "You ever notice how life doesn’t stop when you’re miserable?...",
+    category: "Mental Health"
   },
-
            {
     id: 3,
+    title: "Too Soon, Too Real",
+    date: "6 October, 2025",
+    excerpt: "I think today it all finally hit me.vNot the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but....",
+    category: "Mental Health"
+  },
+
+             {
+    id: 4,
     title: "Running Through the Fire",
     date: "1 September, 2025",
-    excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s...."
+    excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s....",
+    category: "Spiritual Reflection"
   },
 
   {
-    id: 4,
+    id: 5,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
