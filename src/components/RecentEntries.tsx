@@ -4,11 +4,29 @@ import { Card, CardContent, CardHeader } from "@/components/ui/card";
 
 const blogPosts = [
 
+
                {
     id: 1,
+    title: "Unlearning",
+    date: "7 February, 2026",
+    excerpt: "Dear God,....",
+    category: "Spiritual Reflection"
+  },
+
+                 {
+    id: 2,
     title: "Where I Am",
     date: "4 January, 2026",
     excerpt: "In 2025, there was a lot of learning how to sit with myself without needing to fix everything....",
+    category: "Mental Health"
+  },
+
+
+             {
+    id: 3,
+    title: "Hollow",
+    date: "3 November, 2025",
+    excerpt: "You ever notice how life doesn’t stop when you’re miserable?...",
     category: "Mental Health"
   },
 

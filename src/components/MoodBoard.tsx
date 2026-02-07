@@ -11,7 +11,7 @@ const moodItems = [
   },
   {
     label: "Currently Listening",
-    content: "DEAD MAN WALKING by Brent Faiyaz",
+    content: "'Yet' by The Kingdom Come",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {

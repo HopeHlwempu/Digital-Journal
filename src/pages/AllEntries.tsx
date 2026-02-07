@@ -5,8 +5,16 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
 
-               {
+                {
     id: 1,
+    title: "Unlearning",
+    date: "7 February, 2026",
+    excerpt: "Dear God,...",
+    category: "Spiritual Reflection"
+  },
+ 
+  {
+    id: 2,
     title: "Where I Am",
     date: "4 January, 2026",
     excerpt: "In 2025, there was a lot of learning how to sit with myself without needing to fix everything....",
@@ -14,14 +22,14 @@ const blogPosts = [
   },
 
              {
-    id: 2,
+    id: 3,
     title: "Hollow",
     date: "3 November, 2025",
     excerpt: "You ever notice how life doesn’t stop when you’re miserable?...",
     category: "Mental Health"
   },
            {
-    id: 3,
+    id: 4,
     title: "Too Soon, Too Real",
     date: "6 October, 2025",
     excerpt: "I think today it all finally hit me.vNot the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but....",
@@ -29,7 +37,7 @@ const blogPosts = [
   },
 
              {
-    id: 4,
+    id: 5,
     title: "Running Through the Fire",
     date: "1 September, 2025",
     excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s....",
@@ -37,7 +45,7 @@ const blogPosts = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",

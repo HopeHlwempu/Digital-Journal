@@ -4,9 +4,41 @@ import { ArrowLeft, Calendar, Heart } from "lucide-react";
 
 const blogPosts = [
 
-
       {
     id: 1,
+    title: "Unlearning",
+    date: "7 February, 2026",
+    excerpt: "Dear God,....",
+    content: `Dear God,
+I've been numb. I need Your presence. I want to reconnect with You but in the way I normally would — not performatively. Personally, privately. 
+See, I've built my faith in You on the foundation of the church — the community. Instead of You. Not at the fault of them.
+
+I think I confused belonging with believing. I loved You, but I also loved being seen loving You. 
+I loved how it felt to be part of something, to be known as “the Christian one,” to feel spiritually secure because I wasn’t alone in it.
+
+And now that I am alone, it feels like I lost You too. 
+Which scares me, because it makes me wonder how much of my faith was actually You, and how much was just the environment around me.
+
+I’m angry. Not in a dramatic way — just quietly disappointed. At the church. At myself. Sometimes at You. 
+I don’t know where to put that anger, so I’ve been carrying it instead of talking to You about it.
+
+I don’t want a faith that needs an audience anymore. I don’t want to impress anyone, or post about You, or prove that I’m close to You. 
+I just want to be close. Even if it’s boring. Even if it’s quiet. Even if it feels empty at first.
+
+I don’t know how to rebuild this. I don’t even know what it’s supposed to look like. 
+All I know is that I don’t want to fake it, and I don’t want to force it.
+
+So this is me showing up without the music, without the community, without the identity. Just me. Still here. Trying. Wanting You, even when I don’t feel You.
+
+I hope that counts for something.
+
+Amen.
+`
+      },
+
+
+      {
+    id: 2,
     title: "Where I Am",
     date: "4 January, 2026",
     excerpt: "In 2025, there was a lot of learning how to sit with myself without needing to fix everything....",
@@ -53,7 +85,7 @@ This is where I am. And for now, that’s enough.
       },
 
       {
-    id: 2,
+    id: 3,
     title: "Hollow",
     date: "3 November, 2025",
     excerpt: "You ever notice how life doesn’t stop when you’re miserable?...",
@@ -94,7 +126,7 @@ Anything else that isn’t breathing. Something that doesn’t have to survive t
 
       },
       {
-    id: 3,
+    id: 4,
     title: "Too soon, Too Real",
     date: "6 October, 2025",
     excerpt: "I think today it all finally hit me. Not the usual kind of stress — the kind that comes and goes with deadlines or tired mornings — but....",
@@ -135,7 +167,7 @@ House once said, “If you’re scared, it means you still have something worth 
 
       },    
 {
-    id: 4,
+    id: 5,
     title: "Running through the Fire",
     date: "1 September, 2025",
     excerpt: "My life is, for lack of a better word, a mess. Not a cute, sitcom mess — the kind that’s....",
@@ -172,7 +204,7 @@ The bubble might not last forever, but until it pops — I’ll keep running.
     },
 
   {
-    id: 5,
+    id: 6,
     title: "Mission: Take My Life Back",
     date: "August 6, 2025",
     excerpt: "Today I woke up with a bold declaration in mind: take my life back. Bold, right? Almost noble. The kind of...",
