@@ -7,10 +7,10 @@ const blogPosts = [
 
                {
     id: 1,
-    title: "Unlearning",
-    date: "7 February, 2026",
-    excerpt: "Dear God,....",
-    category: "Spiritual Reflection"
+    title: "The Time We Didn't Get",
+    date: "13 March, 2026",
+    excerpt: "I've been thinking a lot about time lately -",
+    category: "Personal Growth"
   },
 
                  {

@@ -8,29 +8,29 @@ const pictures = [
   {
     id: 1,
     src: picture1,
-    caption: "Anique and Me",
-    date: "2 January 2026",
-    reflection: "Love this girl to bits",
+    caption: "My Quiet Time",
+    date: "11 March 2026",
+    reflection: "Running back to Him",
   },
   {
     id: 2,
     src: picture2,
-    caption: "Late Night drives",
-    date: "15 November 2025",
-    reflection: "Listening to 'CHIHIRO' on the road",
+    caption: "Avon & Me",
+    date: "9 March 2026",
+    reflection: "4LIFER !!",
   },
   {
     id: 3,
     src: picture3,
-    caption: "Felipe and a stray dog",
-    date: "3 January 2026",
-    reflection: "Took a walk with Felipe and found this little guy",
+    caption: "Mirror Selfie At Work",
+    date: "12 March 2026",
+    reflection: "I sneak to the bathroom during my shifts, shhh",
   },
 ];  
 
 const currentSong = {
-  title: "Family Ties",
-  artist: "Kendrick Lamar ft. Baby Keem",
+  title: "Alright",
+  artist: "Kendrick Lamar",
   mood: "hype",
 };
 

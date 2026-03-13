@@ -11,7 +11,7 @@ const moodItems = [
   },
   {
     label: "Currently Listening",
-    content: "'Yet' by The Kingdom Come",
+    content: "'BITTERSUITE' By Billie Eillish",
     color: "bg-accent/10 border-accent/30 text-accent"
   },
   {

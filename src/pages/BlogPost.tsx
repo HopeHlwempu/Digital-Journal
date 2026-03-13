@@ -6,33 +6,53 @@ const blogPosts = [
 
       {
     id: 1,
-    title: "Unlearning",
-    date: "7 February, 2026",
-    excerpt: "Dear God,....",
-    content: `Dear God,
-I've been numb. I need Your presence. I want to reconnect with You but in the way I normally would — not performatively. Personally, privately. 
-See, I've built my faith in You on the foundation of the church — the community. Instead of You. Not at the fault of them.
+    title: "The Time We Didn't Get",
+    date: "13 March, 2026",
+    excerpt: "I've been thinking a lot about time lately - ",
+    content: ` I’ve been thinking a lot about time lately — how it moves, what it takes with it, and what it leaves behind.
 
-I think I confused belonging with believing. I loved You, but I also loved being seen loving You. 
-I loved how it felt to be part of something, to be known as “the Christian one,” to feel spiritually secure because I wasn’t alone in it.
+I haven’t always had it easy in the past. In fact, I struggled a lot. But what strikes me now is how careless I was with the years that were supposed to be simple. Not careless in the reckless way people usually mean it — more like unaware. As if I was living inside my life without realizing it was happening.
+Sometimes I feel as though I’ve stepped into adulthood without ever fully understanding what it meant to be a teenager. Those years were swallowed by depression so quietly that I hardly noticed them disappearing. And childhood… I’m not sure I experienced that in the way people describe it either. While other children were learning how to be children, 
+I was learning how to be responsible. I was worrying about things far too big for someone my age. I was caring for everyone except myself. I was living in a constant state of anxious anticipation, never quite knowing when my mother might disappear again.
 
-And now that I am alone, it feels like I lost You too. 
-Which scares me, because it makes me wonder how much of my faith was actually You, and how much was just the environment around me.
+And now, standing at the doorway of adulthood, it does sometimes feel like I’m missing a piece of myself I never got the chance to live.
 
-I’m angry. Not in a dramatic way — just quietly disappointed. At the church. At myself. Sometimes at You. 
-I don’t know where to put that anger, so I’ve been carrying it instead of talking to You about it.
+Philosophers have this strange way of describing time. They say we don’t really have the past anymore — only memories of it. The future doesn’t exist yet either. 
+The only thing we ever truly possess is this thin, moving edge called the present. A moment that arrives and disappears almost immediately.
 
-I don’t want a faith that needs an audience anymore. I don’t want to impress anyone, or post about You, or prove that I’m close to You. 
-I just want to be close. Even if it’s boring. Even if it’s quiet. Even if it feels empty at first.
+Which makes the question uncomfortable: what do you do when the past feels unfinished?
+Part of me has wanted to go back. Not literally, of course — that’s impossible — but emotionally. To revisit those years and somehow reclaim them. To live the teenage freedom I didn’t have. To experience a childhood that wasn’t weighed down by responsibility.
 
-I don’t know how to rebuild this. I don’t even know what it’s supposed to look like. 
-All I know is that I don’t want to fake it, and I don’t want to force it.
+But time has a stubborn rule: it only moves forward.
 
-So this is me showing up without the music, without the community, without the identity. Just me. Still here. Trying. Wanting You, even when I don’t feel You.
+Trying to become who you were supposed to be is a strange trap. It quietly steals the life that’s actually in front of you. There’s a temptation to mourn the past so intensely that the present becomes another lost year.
+And I don’t want to do that.
 
-I hope that counts for something.
+I don’t want my twenties to become a museum dedicated to the girl I used to be. Instead, I’m learning to look backward with something softer than regret—understanding. That younger version of me was doing the best she could with what she had. She survived things she never should have had to carry.
+And survival, I’m realizing, is not a small achievement. It is its own quiet form of courage.
 
-Amen.
+There’s a philosopher, Kierkegaard, who wrote that “life can only be understood backwards, but it must be lived forwards.” I think about that line often. It feels painfully accurate. We make sense of our lives by looking behind us, but we can’t walk in that direction.
+
+Faith, in many ways, asks the same thing of us.
+The past may explain us, but it does not imprison us.
+
+And as I step further into adulthood, I’m beginning to see that growing up isn’t the moment when everything suddenly makes sense. 
+It’s more like learning how to live faithfully in the middle of uncertainty. It’s realizing that no one really knows exactly what they’re doing. Everyone is improvising their way through the years they’ve been given.
+
+Adulthood, it seems, is not the arrival at certainty.
+It’s the willingness to keep walking anyway.
+
+So yes, there are parts of me that feel unfinished. There are years I’ll never get back, experiences I’ll never quite know. But maybe a life doesn’t need to be perfectly balanced across every stage. 
+Maybe some people carry heavier beginnings so they can build deeper endings.
+
+The truth is, I don’t know exactly what the next years will look like. I don’t have a perfect map for adulthood. Some days I still feel like a child pretending to be capable.
+
+But I do know this: God has never once abandoned me in the valleys I thought would swallow me whole. If He walked beside me there, I have no reason to believe He’ll disappear now.
+
+So I’ll keep moving forward — slowly, imperfectly, sometimes uncertainly.
+
+Not trying to become the girl I never got to be. But trusting that the woman I’m becoming is still being written.
+
 `
       },
 
